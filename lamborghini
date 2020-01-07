@@ -1,0 +1,1686 @@
+<html  lang="en" ng-app="lamborghini" ng-class="getBodyClasses()">
+  <head>
+    <!--<script type="text/javascript" src="http://medianexilia.meride.tv/scripts/latest/embed.js"></script>-->
+
+             <meta charset="UTF-8">
+    
+   <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="canonical" href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:creator" content="@Lamborghini" />
+<meta property="twitter:site" content="@Lamborghini" />
+<meta property="og:title" content="Lamborghini Huracán EVO RWD" />
+<meta name="description" content="Technical specification of the Lamborghini Huracán EVO RWD, on sale at Lamborghini dealers." />
+<meta property="og:image" content="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/header.jpg" />
+<meta property="og:description" content="Technical specification of the Lamborghini Huracán EVO RWD, on sale at Lamborghini dealers." />
+<meta property="twitter:description" content="Technical specification of the Lamborghini Huracán EVO RWD, on sale at Lamborghini dealers." />
+<meta property="twitter:image:src" content="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/header.jpg" />
+<meta property="twitter:title" content="Lamborghini Huracán EVO RWD" />
+<meta property="og:type" content="website" />
+<link rel="shortcut icon" href="/themes/custom/lambo/ico/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="it" href="https://www.lamborghini.com/it-en/modelli/huracan/huracan-evo-rwd" />
+<link rel="alternate" hreflang="en" href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" />
+<link rel="alternate" hreflang="fr" href="https://www.lamborghini.com/fr-en/mod%C3%A8les/huracan/huracan-evo-rwd" />
+<link rel="alternate" hreflang="es" href="https://www.lamborghini.com/es-en/modelos/huracan/huracan-evo-rwd" />
+<link rel="alternate" hreflang="de" href="https://www.lamborghini.com/de-en/modelle/huracan/huracan-evo-rwd" />
+<link rel="alternate" hreflang="zh-hans" href="https://www.lamborghini.com/cn-en/%E8%BD%A6%E5%9E%8B/huracan/huracan-evo-rwd" />
+<link rel="alternate" hreflang="ja" href="https://www.lamborghini.com/jp-en/%E3%83%A2%E3%83%87%E3%83%AB/huracan/huracan-evo-rwd" />
+<link rel="alternate" hreflang="ru" href="https://www.lamborghini.com/ru-en/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/huracan/huracan-evo-rwd" />
+<link rel="shortlink" href="https://www.lamborghini.com/en-en/node/9735" />
+<link rel="revision" href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Lamborghini Huracán EVO RWD</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/themes/custom/lambo/ico/apple-touch-icon-57x57.png" >
+    <link rel="apple-touch-icon" sizes="60x60" href="/themes/custom/lambo/ico/apple-touch-icon-60x60.png" attr="body_classes.logged_in" attr2="entity.node.canonical">
+    <link rel="apple-touch-icon" sizes="72x72" href="/themes/custom/lambo/ico/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/themes/custom/lambo/ico/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/themes/custom/lambo/ico/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/themes/custom/lambo/ico/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/themes/custom/lambo/ico/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/themes/custom/lambo/ico/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/lambo/ico/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/themes/custom/lambo/ico/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/themes/custom/lambo/ico/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/themes/custom/lambo/ico/favicon-96x96.png" sizes="96x96" >
+    <link rel="icon" type="image/png" href="/themes/custom/lambo/ico/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/themes/custom/lambo/ico/manifest.json">
+    <link rel="mask-icon" href="/themes/custom/lambo/ico/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="/themes/custom/lambo/ico/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/themes/custom/lambo/ico/mstile-144x144.png">
+    <meta name="msapplication-config" content="/themes/custom/lambo/ico/browserconfig.xml">
+    <meta name="theme-color" content="#000000" >
+    <meta name="format-detection" content="telephone=no">
+	
+	
+    <!--
+       lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "
+    -->
+    <script type="text/javascript">window.pageLanguage='en';</script>
+
+    <script src="https://medialamborghini-meride-tv.akamaized.net/scripts/latest/embed.js"></script>
+    <script>Meride.preventOnDOMLoaded = true;</script>
+
+          <!-- <link rel="stylesheet" href="/themes/custom/lambo/css/reset.css"/>
+      <link rel="stylesheet" href="/themes/custom/lambo/css/layers.min.css"/>
+      <link rel="stylesheet" href="/themes/custom/lambo/css/breakpoints.min.css"/>
+      <link rel="stylesheet" href="/themes/custom/lambo/css/style.css"/>
+      <link rel="stylesheet" href="/themes/custom/lambo/css/perfect-scrollbar.min.css"/>
+      <link href='/themes/custom/lambo/css/fontello/css/fontello.css' rel='stylesheet' type='text/css'-->
+                    <script type="text/javascript" src="/themes/custom/lambo/js/min/base.js"></script>
+          
+
+    <script>
+      dataLayer = [{
+        'pageCategory': 'model',
+        'pageSubCategory': 'PAGE - MODELS - HURACAN - HURACAN EVO RWD',
+        'pageLanguage': 'en',
+        'userCountry': 'USA',
+        'memberType': 'NoLogged',
+        'page404':'false'
+      }];
+    </script>
+
+        <style>.overlay{ display: none; }</style>
+
+             <meta charset="UTF-8">
+    
+  </head>
+  <body  class="path-node page-node-type-model">
+    <script>window.dataloc=1;</script>
+      <ul class="ariamainlink"><li><a href="#">-</a><a href="#ariacontent" style="color:white">vai al contenuto</a></li><li><a href="#footer" style="color:white">vai al footer</a></li><li><a href="#footer" style="color:white">vai al footer</a></li></ul>
+
+    
+        <!-- Google Tag Manager -->
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KKLP"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KKLP');</script>
+      <!-- End Google Tag Manager -->
+
+    
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<div class="body relative">
+
+<div class="emissions"><p>Fuel consumption and emission values of Huracán EVO RWD - Fuel consumption combined:  </p></div>
+
+<header menu="{&quot;mobile&quot;:{&quot;label_back&quot;:&quot;Back&quot;,&quot;label_moreinfo&quot;:&quot;more info&quot;,&quot;label_search&quot;:&quot;Search&quot;,&quot;label_country&quot;:&quot;Choose your language&quot;,&quot;label_gateway&quot;:&quot;Overview&quot;},&quot;children&quot;:[{&quot;label&quot;:&quot;MODELS&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Urus&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/urus&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Hurac\u00e1n&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/huracan&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Hurac\u00e1n EVO&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/huracan\/huracan-evo&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Hurac\u00e1n EVO Spyder&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/huracan\/huracan-evo-spyder&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Hurac\u00e1n EVO RWD&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/huracan\/huracan-evo-rwd&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Aventador&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/aventador&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Aventador S&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/aventador\/aventador-s&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Aventador S Roadster&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/aventador\/aventador-s-roadster&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Aventador SVJ&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/aventador\/aventador-svj&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Aventador SVJ Roadster&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/aventador\/aventador-svj-roadster&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Few Off&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/few-off&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Si\u00e1n FKP 37&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/few-off\/sian&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Centenario Roadster&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/few-off\/centenario-roadster&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Centenario&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/few-off\/centenario&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Concept&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/concept&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Terzo Millennio&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/concept\/terzo-millennio&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Asterion&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/concept\/asterion&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Estoque&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/concept\/estoque&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Ad Personam&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/ad-personam&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;BRAND&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;People&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/people&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Ferruccio Lamborghini&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/people\/ferruccio-lamborghini&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false},{&quot;label&quot;:&quot;Marcello Gandini&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/people\/gandini&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false},{&quot;label&quot;:&quot;Giampaolo Dallara&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/people\/dallara&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false},{&quot;label&quot;:&quot;Paolo Stanzani&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/people\/stanzani&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false}]},{&quot;label&quot;:&quot;History&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/history&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false},{&quot;label&quot;:&quot;Masterpieces&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/masterpieces&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false},{&quot;label&quot;:&quot;Design&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/design&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Innovation &amp; Excellence&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/innovation-excellence&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Forged Composites\u00ae&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/innovation-excellence\/forged-composites&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Carbon Fiber&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/innovation-excellence\/carbon-fiber&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Since We Made It Possible&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/brand\/since-we-made-it-possible&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Ownership&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Locators&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/nolink&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Dealer locator&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/dealer-locator&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Service locator&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/dealer-locator#service&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Collision Center&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/dealer-locator#collision-center&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Pre-Owned&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/nolink&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Selezione&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/pre-owned\/selezione&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Accessori Originali&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/accessori-originali&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Spare parts&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/spare-parts&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false},{&quot;label&quot;:&quot;Services&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/services&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Assistance&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/services?s=block2&amp;a=assistance&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Warranty&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/services?s=block2&amp;a=warranty&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Care Program&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/services?s=block2&amp;a=care&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;Polo Storico&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/polo-storico&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Financial Services&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/ownership\/financial-services&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;EXPERIENCE&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/experience&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;News&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/experience\/news&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Events&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/experience\/events&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Museum&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/experience\/museum&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Esperienza Programs&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/experience\/esperienza-programs&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Lounge&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/experience\/lamborghini-lounge&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;Mobile App&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/experience\/mobile-app&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;}]},{&quot;label&quot;:&quot;MOTORSPORT&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/motorsport&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;children&quot;:[]},{&quot;label&quot;:&quot;Store&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/store&quot;,&quot;target&quot;:&quot;_self&quot;},&quot;active&quot;:false,&quot;only_mobile&quot;:&quot;0&quot;,&quot;children&quot;:[]}],&quot;home_link&quot;:&quot;\/en-en&quot;,&quot;anchors&quot;:[{&quot;label&quot;:&quot;overview&quot;,&quot;target_id&quot;:&quot;t=block0&quot;},{&quot;label&quot;:&quot;emotion&quot;,&quot;target_id&quot;:&quot;t=block1&quot;},{&quot;label&quot;:&quot;design&quot;,&quot;target_id&quot;:&quot;t=block2&quot;},{&quot;label&quot;:&quot;driving dynamics&quot;,&quot;target_id&quot;:&quot;t=block5&quot;},{&quot;label&quot;:&quot;Configurator&quot;,&quot;target_id&quot;:&quot;t=block7&quot;},{&quot;label&quot;:&quot;technical specifications&quot;,&quot;target_id&quot;:&quot;t=block6&quot;},{&quot;label&quot;:&quot;gallery&quot;,&quot;target_id&quot;:&quot;t=gallery&quot;},{&quot;label&quot;:&quot;ad personam&quot;,&quot;target_id&quot;:&quot;t=block4&quot;}],&quot;languages&quot;:{&quot;title&quot;:{&quot;thin&quot;:&quot;Choose&quot;,&quot;bold&quot;:&quot;Your language&quot;},&quot;children&quot;:[{&quot;label&quot;:{&quot;short&quot;:&quot;it&quot;,&quot;full&quot;:&quot;italian&quot;},&quot;id&quot;:&quot;it-en\/modelli\/huracan\/huracan-evo-rwd&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/it-en\/modelli\/huracan\/huracan-evo-rwd&quot;}},{&quot;label&quot;:{&quot;short&quot;:&quot;en&quot;,&quot;full&quot;:&quot;english&quot;},&quot;id&quot;:&quot;en-en\/models\/huracan\/huracan-evo-rwd&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/models\/huracan\/huracan-evo-rwd&quot;}},{&quot;label&quot;:{&quot;short&quot;:&quot;cn&quot;,&quot;full&quot;:&quot;chinese&quot;},&quot;id&quot;:&quot;cn-en\/\u8f66\u578b\/huracan\/huracan-evo-rwd&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/cn-en\/\u8f66\u578b\/huracan\/huracan-evo-rwd&quot;}},{&quot;label&quot;:{&quot;short&quot;:&quot;jp&quot;,&quot;full&quot;:&quot;japanese&quot;},&quot;id&quot;:&quot;jp-en\/\u30e2\u30c7\u30eb\/huracan\/huracan-evo-rwd&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/jp-en\/\u30e2\u30c7\u30eb\/huracan\/huracan-evo-rwd&quot;}},{&quot;label&quot;:{&quot;short&quot;:&quot;de&quot;,&quot;full&quot;:&quot;german&quot;},&quot;id&quot;:&quot;de-en\/modelle\/huracan\/huracan-evo-rwd&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/de-en\/modelle\/huracan\/huracan-evo-rwd&quot;}},{&quot;label&quot;:{&quot;short&quot;:&quot;es&quot;,&quot;full&quot;:&quot;spanish&quot;},&quot;id&quot;:&quot;es-en\/modelos\/huracan\/huracan-evo-rwd&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/es-en\/modelos\/huracan\/huracan-evo-rwd&quot;}},{&quot;label&quot;:{&quot;short&quot;:&quot;fr&quot;,&quot;full&quot;:&quot;french&quot;},&quot;id&quot;:&quot;fr-en\/mod\u00e8les\/huracan\/huracan-evo-rwd&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/fr-en\/mod\u00e8les\/huracan\/huracan-evo-rwd&quot;}},{&quot;label&quot;:{&quot;short&quot;:&quot;ru&quot;,&quot;full&quot;:&quot;russian&quot;},&quot;id&quot;:&quot;ru-en\/\u043c\u043e\u0434\u0435\u043b\u0438\/huracan\/huracan-evo-rwd&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/ru-en\/\u043c\u043e\u0434\u0435\u043b\u0438\/huracan\/huracan-evo-rwd&quot;}}]},&quot;search&quot;:{&quot;title&quot;:{&quot;thin&quot;:&quot;Search&quot;},&quot;label_results&quot;:&quot;Results&quot;,&quot;label_noresults&quot;:&quot;No results found&quot;,&quot;placeholder&quot;:&quot;Search on Lamborghini.com&quot;,&quot;uri&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/lambo_search\/get.json\/&quot;},&quot;share&quot;:{&quot;title&quot;:{&quot;thin&quot;:&quot;Share&quot;,&quot;bold&quot;:&quot;on social&quot;}}}" ng-init="searchUri = 'https://www.lamborghini.com/en-en/lambo_search/get.json/'; language = '{&quot;label&quot;:{&quot;short&quot;:&quot;en&quot;,&quot;full&quot;:&quot;english&quot;},&quot;id&quot;:&quot;en&quot;}'">
+
+
+
+    <div class="dd row-content" aria-hidden="true">
+        <div class="holder column ten push-one reset last">
+            <div class="column third reset">
+                                    <ul id="submenu_0" class="submenu" ng-class="getClass(0)">
+                                                    <li><a href="https://www.lamborghini.com/en-en/models/urus" target="_self" ng-mouseover="over(0,1)"
+                                   ng-class="getActiveClass(0,1)">Urus</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/models/huracan" target="_self" ng-mouseover="over(1,1)"
+                                   ng-class="getActiveClass(1,1)">Huracán                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/models/aventador" target="_self" ng-mouseover="over(2,1)"
+                                   ng-class="getActiveClass(2,1)">Aventador                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/models/few-off" target="_self" ng-mouseover="over(3,1)"
+                                   ng-class="getActiveClass(3,1)">Few Off                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/models/concept" target="_self" ng-mouseover="over(4,1)"
+                                   ng-class="getActiveClass(4,1)">Concept                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/models/ad-personam" target="_self" ng-mouseover="over(5,1)"
+                                   ng-class="getActiveClass(5,1)">Ad Personam</a></li>
+                                            </ul>
+
+                                    <ul id="submenu_1" class="submenu" ng-class="getClass(1)">
+                                                    <li><a href="https://www.lamborghini.com/en-en/brand/people" target="_self" ng-mouseover="over(0,1)"
+                                   ng-class="getActiveClass(0,1)">People                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/brand/history" target="_self" ng-mouseover="over(1,1)"
+                                   ng-class="getActiveClass(1,1)">History</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/brand/masterpieces" target="_self" ng-mouseover="over(2,1)"
+                                   ng-class="getActiveClass(2,1)">Masterpieces</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/brand/design" target="_self" ng-mouseover="over(3,1)"
+                                   ng-class="getActiveClass(3,1)">Design</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/brand/innovation-excellence" target="_self" ng-mouseover="over(4,1)"
+                                   ng-class="getActiveClass(4,1)">Innovation &amp; Excellence                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/brand/since-we-made-it-possible" target="_self" ng-mouseover="over(5,1)"
+                                   ng-class="getActiveClass(5,1)">Since We Made It Possible</a></li>
+                                            </ul>
+
+                                    <ul id="submenu_2" class="submenu" ng-class="getClass(2)">
+                                                    <li><a  style="cursor:default"  ng-mouseover="over(0,1)"
+                                   ng-class="getActiveClass(0,1)">Locators                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a  style="cursor:default"  ng-mouseover="over(1,1)"
+                                   ng-class="getActiveClass(1,1)">Pre-Owned                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/ownership/accessori-originali" target="_self" ng-mouseover="over(2,1)"
+                                   ng-class="getActiveClass(2,1)">Accessori Originali</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/ownership/spare-parts" target="_self" ng-mouseover="over(3,1)"
+                                   ng-class="getActiveClass(3,1)">Spare parts</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/ownership/services" target="_self" ng-mouseover="over(4,1)"
+                                   ng-class="getActiveClass(4,1)">Services                                        <span class="icon-arrow-right"></span></a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/ownership/polo-storico" target="_self" ng-mouseover="over(5,1)"
+                                   ng-class="getActiveClass(5,1)">Polo Storico</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/ownership/financial-services" target="_self" ng-mouseover="over(6,1)"
+                                   ng-class="getActiveClass(6,1)">Financial Services</a></li>
+                                            </ul>
+
+                                    <ul id="submenu_3" class="submenu" ng-class="getClass(3)">
+                                                    <li><a href="https://www.lamborghini.com/en-en/experience/news" target="_self" ng-mouseover="over(0,1)"
+                                   ng-class="getActiveClass(0,1)">News</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/experience/events" target="_self" ng-mouseover="over(1,1)"
+                                   ng-class="getActiveClass(1,1)">Events</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/experience/museum" target="_self" ng-mouseover="over(2,1)"
+                                   ng-class="getActiveClass(2,1)">Museum</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/experience/esperienza-programs" target="_self" ng-mouseover="over(3,1)"
+                                   ng-class="getActiveClass(3,1)">Esperienza Programs</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/experience/lamborghini-lounge" target="_self" ng-mouseover="over(4,1)"
+                                   ng-class="getActiveClass(4,1)">Lounge</a></li>
+                                                    <li><a href="https://www.lamborghini.com/en-en/experience/mobile-app" target="_self" ng-mouseover="over(5,1)"
+                                   ng-class="getActiveClass(5,1)">Mobile App</a></li>
+                                            </ul>
+
+                                    <ul id="submenu_4" class="submenu" ng-class="getClass(4)">
+                                            </ul>
+
+                                    <ul id="submenu_5" class="submenu" ng-class="getClass(5)">
+                                            </ul>
+
+                            </div>
+            <div class="column third reset">
+                                                        
+                        <ul id="submenu_0_0" class="submenu"
+                            ng-class="getClass(0,0)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_0_1" class="submenu"
+                            ng-class="getClass(0,1)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Huracán EVO</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-spyder" target="_self" ng-mouseover="over(1,2)"
+                                       ng-class="getActiveClass(1,2)">Huracán EVO Spyder</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" target="_self" ng-mouseover="over(2,2)"
+                                       ng-class="getActiveClass(2,2)">Huracán EVO RWD</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_0_2" class="submenu"
+                            ng-class="getClass(0,2)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/aventador/aventador-s" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Aventador S</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/aventador/aventador-s-roadster" target="_self" ng-mouseover="over(1,2)"
+                                       ng-class="getActiveClass(1,2)">Aventador S Roadster</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/aventador/aventador-svj" target="_self" ng-mouseover="over(2,2)"
+                                       ng-class="getActiveClass(2,2)">Aventador SVJ</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/aventador/aventador-svj-roadster" target="_self" ng-mouseover="over(3,2)"
+                                       ng-class="getActiveClass(3,2)">Aventador SVJ Roadster</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_0_3" class="submenu"
+                            ng-class="getClass(0,3)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/few-off/sian" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Sián FKP 37</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/few-off/centenario-roadster" target="_self" ng-mouseover="over(1,2)"
+                                       ng-class="getActiveClass(1,2)">Centenario Roadster</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/few-off/centenario" target="_self" ng-mouseover="over(2,2)"
+                                       ng-class="getActiveClass(2,2)">Centenario</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_0_4" class="submenu"
+                            ng-class="getClass(0,4)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/concept/terzo-millennio" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Terzo Millennio</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/concept/asterion" target="_self" ng-mouseover="over(1,2)"
+                                       ng-class="getActiveClass(1,2)">Asterion</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/concept/estoque" target="_self" ng-mouseover="over(2,2)"
+                                       ng-class="getActiveClass(2,2)">Estoque</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_0_5" class="submenu"
+                            ng-class="getClass(0,5)">
+                                                    </ul>
+
+                                                                            
+                        <ul id="submenu_1_0" class="submenu"
+                            ng-class="getClass(1,0)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/people/ferruccio-lamborghini" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Ferruccio Lamborghini</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/people/gandini" target="_self" ng-mouseover="over(1,2)"
+                                       ng-class="getActiveClass(1,2)">Marcello Gandini</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/people/dallara" target="_self" ng-mouseover="over(2,2)"
+                                       ng-class="getActiveClass(2,2)">Giampaolo Dallara</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/people/stanzani" target="_self" ng-mouseover="over(3,2)"
+                                       ng-class="getActiveClass(3,2)">Paolo Stanzani</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_1_1" class="submenu"
+                            ng-class="getClass(1,1)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_1_2" class="submenu"
+                            ng-class="getClass(1,2)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_1_3" class="submenu"
+                            ng-class="getClass(1,3)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_1_4" class="submenu"
+                            ng-class="getClass(1,4)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/innovation-excellence/forged-composites" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Forged Composites®</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/innovation-excellence/carbon-fiber" target="_self" ng-mouseover="over(1,2)"
+                                       ng-class="getActiveClass(1,2)">Carbon Fiber</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_1_5" class="submenu"
+                            ng-class="getClass(1,5)">
+                                                    </ul>
+
+                                                                            
+                        <ul id="submenu_2_0" class="submenu"
+                            ng-class="getClass(2,0)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/dealer-locator" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Dealer locator</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/dealer-locator#service" target="_self" ng-mouseover="over(1,2)"
+                                       ng-class="getActiveClass(1,2)">Service locator</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/dealer-locator#collision-center" target="_self" ng-mouseover="over(2,2)"
+                                       ng-class="getActiveClass(2,2)">Collision Center</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_2_1" class="submenu"
+                            ng-class="getClass(2,1)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/pre-owned/selezione" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Selezione</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_2_2" class="submenu"
+                            ng-class="getClass(2,2)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_2_3" class="submenu"
+                            ng-class="getClass(2,3)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_2_4" class="submenu"
+                            ng-class="getClass(2,4)">
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=assistance" target="_self" ng-mouseover="over(0,2)"
+                                       ng-class="getActiveClass(0,2)">Assistance</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=warranty" target="_self" ng-mouseover="over(1,2)"
+                                       ng-class="getActiveClass(1,2)">Warranty</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=care" target="_self" ng-mouseover="over(2,2)"
+                                       ng-class="getActiveClass(2,2)">Care Program</a></li>
+                                                    </ul>
+
+                    
+                        <ul id="submenu_2_5" class="submenu"
+                            ng-class="getClass(2,5)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_2_6" class="submenu"
+                            ng-class="getClass(2,6)">
+                                                    </ul>
+
+                                                                            
+                        <ul id="submenu_3_0" class="submenu"
+                            ng-class="getClass(3,0)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_3_1" class="submenu"
+                            ng-class="getClass(3,1)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_3_2" class="submenu"
+                            ng-class="getClass(3,2)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_3_3" class="submenu"
+                            ng-class="getClass(3,3)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_3_4" class="submenu"
+                            ng-class="getClass(3,4)">
+                                                    </ul>
+
+                    
+                        <ul id="submenu_3_5" class="submenu"
+                            ng-class="getClass(3,5)">
+                                                    </ul>
+
+                                                                                                                                                                </div>
+            <div class="column third reset last">
+                <div class="preview" ng-if="preview">
+                    <img ng-src="[[preview.image]]"/>
+                    <h6>[[preview.title]]</h6>
+
+                    <p>[[preview.text]]</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="black row-content">
+                              <a class="logo" href="/en-en"><img src="/themes/custom/lambo/img/base/logo.png" alt="Automobili Lamborghini Spa"/></a>
+                  
+
+
+        <ul class="arialist" tabindex="-1">
+                 <li><a href="#wcagmenu" ></a></li>
+                                <li><a href="https://www.lamborghini.com/it-en/modelli/huracan/huracan-evo-rwd" >italian</a></li>
+                                <li><a href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" >english</a></li>
+                                <li><a href="https://www.lamborghini.com/cn-en/车型/huracan/huracan-evo-rwd" >chinese</a></li>
+                                <li><a href="https://www.lamborghini.com/jp-en/モデル/huracan/huracan-evo-rwd" >japanese</a></li>
+                                <li><a href="https://www.lamborghini.com/de-en/modelle/huracan/huracan-evo-rwd" >german</a></li>
+                                <li><a href="https://www.lamborghini.com/es-en/modelos/huracan/huracan-evo-rwd" >spanish</a></li>
+                                <li><a href="https://www.lamborghini.com/fr-en/modèles/huracan/huracan-evo-rwd" >french</a></li>
+                                <li><a href="https://www.lamborghini.com/ru-en/модели/huracan/huracan-evo-rwd" >russian</a></li>
+                        </ul>
+
+
+        <ul id="wcagmenu" class="arialist" tabindex="-1">
+                <li><a href="https://www.lamborghini.com/en-en/models" target="_self">MODELS</a><ul>
+                        <li><a href="https://www.lamborghini.com/en-en/models/urus" target="_self">Urus</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/models/huracan" target="_self">Huracán</a></li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo" target="_self">Huracán EVO</a></li><li><a href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-spyder" target="_self">Huracán EVO Spyder</a></li><li><a href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" target="_self">Huracán EVO RWD</a></li></ul>                        <li><a href="https://www.lamborghini.com/en-en/models/aventador" target="_self">Aventador</a></li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/models/aventador/aventador-s" target="_self">Aventador S</a></li><li><a href="https://www.lamborghini.com/en-en/models/aventador/aventador-s-roadster" target="_self">Aventador S Roadster</a></li><li><a href="https://www.lamborghini.com/en-en/models/aventador/aventador-svj" target="_self">Aventador SVJ</a></li><li><a href="https://www.lamborghini.com/en-en/models/aventador/aventador-svj-roadster" target="_self">Aventador SVJ Roadster</a></li></ul>                        <li><a href="https://www.lamborghini.com/en-en/models/few-off" target="_self">Few Off</a></li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/models/few-off/sian" target="_self">Sián FKP 37</a></li><li><a href="https://www.lamborghini.com/en-en/models/few-off/centenario-roadster" target="_self">Centenario Roadster</a></li><li><a href="https://www.lamborghini.com/en-en/models/few-off/centenario" target="_self">Centenario</a></li></ul>                        <li><a href="https://www.lamborghini.com/en-en/models/concept" target="_self">Concept</a></li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/models/concept/terzo-millennio" target="_self">Terzo Millennio</a></li><li><a href="https://www.lamborghini.com/en-en/models/concept/asterion" target="_self">Asterion</a></li><li><a href="https://www.lamborghini.com/en-en/models/concept/estoque" target="_self">Estoque</a></li></ul>                        <li><a href="https://www.lamborghini.com/en-en/models/ad-personam" target="_self">Ad Personam</a></li>
+                                </ul>        </li>
+                <li><a href="https://www.lamborghini.com/en-en/brand" target="_self">BRAND</a><ul>
+                        <li><a href="https://www.lamborghini.com/en-en/brand/people" target="_self">People</a></li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/brand/people/ferruccio-lamborghini" target="_self">Ferruccio Lamborghini</a></li><li><a href="https://www.lamborghini.com/en-en/brand/people/gandini" target="_self">Marcello Gandini</a></li><li><a href="https://www.lamborghini.com/en-en/brand/people/dallara" target="_self">Giampaolo Dallara</a></li><li><a href="https://www.lamborghini.com/en-en/brand/people/stanzani" target="_self">Paolo Stanzani</a></li></ul>                        <li><a href="https://www.lamborghini.com/en-en/brand/history" target="_self">History</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/brand/masterpieces" target="_self">Masterpieces</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/brand/design" target="_self">Design</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/brand/innovation-excellence" target="_self">Innovation &amp; Excellence</a></li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/brand/innovation-excellence/forged-composites" target="_self">Forged Composites®</a></li><li><a href="https://www.lamborghini.com/en-en/brand/innovation-excellence/carbon-fiber" target="_self">Carbon Fiber</a></li></ul>                        <li><a href="https://www.lamborghini.com/en-en/brand/since-we-made-it-possible" target="_self">Since We Made It Possible</a></li>
+                                </ul>        </li>
+                <li><a href="https://www.lamborghini.com/en-en/ownership" target="_self">Ownership</a><ul>
+                        <li>Locators</li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/ownership/dealer-locator" target="_self">Dealer locator</a></li><li><a href="https://www.lamborghini.com/en-en/ownership/dealer-locator#service" target="_self">Service locator</a></li><li><a href="https://www.lamborghini.com/en-en/ownership/dealer-locator#collision-center" target="_self">Collision Center</a></li></ul>                        <li>Pre-Owned</li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/ownership/pre-owned/selezione" target="_self">Selezione</a></li></ul>                        <li><a href="https://www.lamborghini.com/en-en/ownership/accessori-originali" target="_self">Accessori Originali</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/ownership/spare-parts" target="_self">Spare parts</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/ownership/services" target="_self">Services</a></li>
+            <ul><li><a href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=assistance" target="_self">Assistance</a></li><li><a href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=warranty" target="_self">Warranty</a></li><li><a href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=care" target="_self">Care Program</a></li></ul>                        <li><a href="https://www.lamborghini.com/en-en/ownership/polo-storico" target="_self">Polo Storico</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/ownership/financial-services" target="_self">Financial Services</a></li>
+                                </ul>        </li>
+                <li><a href="https://www.lamborghini.com/en-en/experience" target="_self">EXPERIENCE</a><ul>
+                        <li><a href="https://www.lamborghini.com/en-en/experience/news" target="_self">News</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/experience/events" target="_self">Events</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/experience/museum" target="_self">Museum</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/experience/esperienza-programs" target="_self">Esperienza Programs</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/experience/lamborghini-lounge" target="_self">Lounge</a></li>
+                                    <li><a href="https://www.lamborghini.com/en-en/experience/mobile-app" target="_self">Mobile App</a></li>
+                                </ul>        </li>
+                <li><a href="https://www.lamborghini.com/en-en/motorsport" target="_self">MOTORSPORT</a>        </li>
+                <li><a href="https://www.lamborghini.com/en-en/store" target="_self">Store</a>        </li>
+            </ul>
+
+        <div class="rightbox" aria-hidden="true">
+            <div>
+                <ul>
+                    <li ng-click="$root.toggleOverlay('wcag',true)"><span class="icon1-settings"></span></li><li ng-click="$root.toggleOverlay('share',true)"><span class="icon-share"></span></li><li ng-click="$root.toggleOverlay('search',true)"><span class="icon-search"></span></li><li ng-click="$root.toggleOverlay('languages',true)"><span class="grey">en</span></li>
+                </ul>
+            </div>
+
+        </div>
+        <div id="mobile-menu" menu-mobile>
+            <div class="blackbar"></div>
+            <div class="top">
+                <div class="content">
+                    <div class="bottom">
+                        <div class="search" ng-click="mobileSearchClick()"><span class="icon-search"></span><input  ng-keyup="onSearchType($event)" id="search-mobile" ng-model="searchTerm" type="text" placeholder="Search"/><span class="icon-close" ng-if="searchTerm && results" ng-click="clearSearch()"></span><div class="loading"><div class="spinner"></div></div>
+                        </div>
+                        <div class="language">
+                            <select ng-model="languageFromMobile">
+                                                                    <option value="https://www.lamborghini.com/it-en/modelli/huracan/huracan-evo-rwd">it</option>
+                                                                    <option value="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd">en</option>
+                                                                    <option value="https://www.lamborghini.com/cn-en/车型/huracan/huracan-evo-rwd">cn</option>
+                                                                    <option value="https://www.lamborghini.com/jp-en/モデル/huracan/huracan-evo-rwd">jp</option>
+                                                                    <option value="https://www.lamborghini.com/de-en/modelle/huracan/huracan-evo-rwd">de</option>
+                                                                    <option value="https://www.lamborghini.com/es-en/modelos/huracan/huracan-evo-rwd">es</option>
+                                                                    <option value="https://www.lamborghini.com/fr-en/modèles/huracan/huracan-evo-rwd">fr</option>
+                                                                    <option value="https://www.lamborghini.com/ru-en/модели/huracan/huracan-evo-rwd">ru</option>
+                                                            </select>
+                            <span class="label">en</span>
+                        </div>
+                    </div>
+                    <div class="wrapper">
+                        <ul>
+                                                            <li ng-class="getClassMobile(0,0)">
+
+                                                                            <a href="javascript:void(0);" ng-click="doOpen(0,0)">MODELS</a>
+                                        <ul>
+                                                                                            <li ng-class="getClassMobile(0,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/models/urus" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Urus</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(1,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(1,1)">Huracán</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo" target="_self">Huracán EVO</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-spyder" target="_self">Huracán EVO Spyder</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" target="_self">Huracán EVO RWD</a>
+                                                                </li>
+                                                                                                                        <li><a class="nochildren"
+                                                                   href="https://www.lamborghini.com/en-en/models/huracan"  target="_self">Overview</a></li>
+                                                                                                                    </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(2,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(2,1)">Aventador</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/aventador/aventador-s" target="_self">Aventador S</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/aventador/aventador-s-roadster" target="_self">Aventador S Roadster</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/aventador/aventador-svj" target="_self">Aventador SVJ</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/aventador/aventador-svj-roadster" target="_self">Aventador SVJ Roadster</a>
+                                                                </li>
+                                                                                                                        <li><a class="nochildren"
+                                                                   href="https://www.lamborghini.com/en-en/models/aventador"  target="_self">Overview</a></li>
+                                                                                                                    </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(3,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(3,1)">Few Off</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/few-off/sian" target="_self">Sián FKP 37</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/few-off/centenario-roadster" target="_self">Centenario Roadster</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/few-off/centenario" target="_self">Centenario</a>
+                                                                </li>
+                                                                                                                        <li><a class="nochildren"
+                                                                   href="https://www.lamborghini.com/en-en/models/few-off"  target="_self">Overview</a></li>
+                                                                                                                    </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(4,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(4,1)">Concept</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/concept/terzo-millennio" target="_self">Terzo Millennio</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/concept/asterion" target="_self">Asterion</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/models/concept/estoque" target="_self">Estoque</a>
+                                                                </li>
+                                                                                                                        <li><a class="nochildren"
+                                                                   href="https://www.lamborghini.com/en-en/models/concept"  target="_self">Overview</a></li>
+                                                                                                                    </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(5,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/models/ad-personam" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Ad Personam</a>
+                                                                                                    </li>
+                                                                                        <li><a class="nochildren" href="https://www.lamborghini.com/en-en/models" target="_self">Overview</a></li>                                        </ul>
+                                    
+                                </li>
+                                                            <li ng-class="getClassMobile(1,0)">
+
+                                                                            <a href="javascript:void(0);" ng-click="doOpen(1,0)">BRAND</a>
+                                        <ul>
+                                                                                            <li ng-class="getClassMobile(0,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(0,1)">People</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/brand/people/ferruccio-lamborghini" target="_self">Ferruccio Lamborghini</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/brand/people/gandini" target="_self">Marcello Gandini</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/brand/people/dallara" target="_self">Giampaolo Dallara</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/brand/people/stanzani" target="_self">Paolo Stanzani</a>
+                                                                </li>
+                                                                                                                        <li><a class="nochildren"
+                                                                   href="https://www.lamborghini.com/en-en/brand/people"  target="_self">Overview</a></li>
+                                                                                                                    </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(1,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/brand/history" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">History</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(2,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/brand/masterpieces" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Masterpieces</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(3,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/brand/design" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Design</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(4,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(4,1)">Innovation &amp; Excellence</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/brand/innovation-excellence/forged-composites" target="_self">Forged Composites®</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/brand/innovation-excellence/carbon-fiber" target="_self">Carbon Fiber</a>
+                                                                </li>
+                                                                                                                        <li><a class="nochildren"
+                                                                   href="https://www.lamborghini.com/en-en/brand/innovation-excellence"  target="_self">Overview</a></li>
+                                                                                                                    </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(5,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/brand/since-we-made-it-possible" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Since We Made It Possible</a>
+                                                                                                    </li>
+                                                                                        <li><a class="nochildren" href="https://www.lamborghini.com/en-en/brand" target="_self">Overview</a></li>                                        </ul>
+                                    
+                                </li>
+                                                            <li ng-class="getClassMobile(2,0)">
+
+                                                                            <a href="javascript:void(0);" ng-click="doOpen(2,0)">Ownership</a>
+                                        <ul>
+                                                                                            <li ng-class="getClassMobile(0,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(0,1)">Locators</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/ownership/dealer-locator" target="_self">Dealer locator</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/ownership/dealer-locator#service" target="_self">Service locator</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/ownership/dealer-locator#collision-center" target="_self">Collision Center</a>
+                                                                </li>
+                                                                                                                                                                                </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(1,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(1,1)">Pre-Owned</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/ownership/pre-owned/selezione" target="_self">Selezione</a>
+                                                                </li>
+                                                                                                                                                                                </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(2,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/ownership/accessori-originali" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Accessori Originali</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(3,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/ownership/spare-parts" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Spare parts</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(4,1)">
+                                                                                                            <a href="javascript:void(0);"
+                                                           ng-click="doOpen(4,1)">Services</a>
+                                                        <ul>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=assistance" target="_self">Assistance</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=warranty" target="_self">Warranty</a>
+                                                                </li>
+                                                                                                                            <li><a class="nochildren"
+                                                                       href="https://www.lamborghini.com/en-en/ownership/services?s=block2&amp;a=care" target="_self">Care Program</a>
+                                                                </li>
+                                                                                                                        <li><a class="nochildren"
+                                                                   href="https://www.lamborghini.com/en-en/ownership/services"  target="_self">Overview</a></li>
+                                                                                                                    </ul>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(5,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/ownership/polo-storico" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Polo Storico</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(6,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/ownership/financial-services" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Financial Services</a>
+                                                                                                    </li>
+                                                                                        <li><a class="nochildren" href="https://www.lamborghini.com/en-en/ownership" target="_self">Overview</a></li>                                        </ul>
+                                    
+                                </li>
+                                                            <li ng-class="getClassMobile(3,0)">
+
+                                                                            <a href="javascript:void(0);" ng-click="doOpen(3,0)">EXPERIENCE</a>
+                                        <ul>
+                                                                                            <li ng-class="getClassMobile(0,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/experience/news" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">News</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(1,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/experience/events" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Events</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(2,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/experience/museum" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Museum</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(3,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/experience/esperienza-programs" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Esperienza Programs</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(4,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/experience/lamborghini-lounge" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Lounge</a>
+                                                                                                    </li>
+                                                                                            <li ng-class="getClassMobile(5,1)">
+                                                                                                            <a href="https://www.lamborghini.com/en-en/experience/mobile-app" target="_self" class="nochildren"
+                                                           ng-click="doOpen($event)">Mobile App</a>
+                                                                                                    </li>
+                                                                                        <li><a class="nochildren" href="https://www.lamborghini.com/en-en/experience" target="_self">Overview</a></li>                                        </ul>
+                                    
+                                </li>
+                                                            <li ng-class="getClassMobile(4,0)">
+
+                                                                            <a href="https://www.lamborghini.com/en-en/motorsport" target="_self" class="nochildren"
+                                           ng-click="doOpen($event)">MOTORSPORT</a>
+                                    
+                                </li>
+                                                            <li ng-class="getClassMobile(5,0)">
+
+                                                                            <a href="https://www.lamborghini.com/en-en/store" target="_self" class="nochildren"
+                                           ng-click="doOpen($event)">Store</a>
+                                    
+                                </li>
+                                                    </ul>
+                        <div class="social-links">
+                            <ul>
+                                <li><span class="icon-share"></span></li><li><div class="addthis_inline_share_toolbox"></div></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="search-results">
+                    <div class="results-wrapper">
+                        <a target="_self" ng-href="[[result.url]]" ng-repeat="result in results" class="result"><div><div class="title">[[result.title]]</div><p ng-bind-html="$root.trust(result.body)"></p></div><div><span class="icon-arrow-next"></span></div></a>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="column ten push-one reset last desktop-holder">
+            <nav class="desktop">
+                <ul>
+                                            <li><a href="https://www.lamborghini.com/en-en/models"
+                               ng-mouseover="over(0,0)"
+                               ng-class="getActiveClass(0,0)">MODELS</a></li>
+                                            <li><a href="https://www.lamborghini.com/en-en/brand"
+                               ng-mouseover="over(1,0)"
+                               ng-class="getActiveClass(1,0)">BRAND</a></li>
+                                            <li><a href="https://www.lamborghini.com/en-en/ownership"
+                               ng-mouseover="over(2,0)"
+                               ng-class="getActiveClass(2,0)">Ownership</a></li>
+                                            <li><a href="https://www.lamborghini.com/en-en/experience"
+                               ng-mouseover="over(3,0)"
+                               ng-class="getActiveClass(3,0)">EXPERIENCE</a></li>
+                                            <li><a href="https://www.lamborghini.com/en-en/motorsport"
+                               ng-mouseover="closedd()"
+                               ng-class="getActiveClass(4,0)">MOTORSPORT</a></li>
+                                            <li><a href="https://www.lamborghini.com/en-en/store"
+                               ng-mouseover="closedd()"
+                               ng-class="getActiveClass(5,0)">Store</a></li>
+                                    </ul>
+                <ul class="sub" aria-hidden="true">
+                                            <li><a href="javascript:void(0)" ng-click="anchorClick('{&quot;label&quot;:&quot;overview&quot;,&quot;target_id&quot;:&quot;t=block0&quot;}')">overview</a></li>                        <li><a href="javascript:void(0)" ng-click="anchorClick('{&quot;label&quot;:&quot;emotion&quot;,&quot;target_id&quot;:&quot;t=block1&quot;}')">emotion</a></li>                        <li><a href="javascript:void(0)" ng-click="anchorClick('{&quot;label&quot;:&quot;design&quot;,&quot;target_id&quot;:&quot;t=block2&quot;}')">design</a></li>                        <li><a href="javascript:void(0)" ng-click="anchorClick('{&quot;label&quot;:&quot;driving dynamics&quot;,&quot;target_id&quot;:&quot;t=block5&quot;}')">driving dynamics</a></li>                        <li><a href="javascript:void(0)" ng-click="anchorClick('{&quot;label&quot;:&quot;Configurator&quot;,&quot;target_id&quot;:&quot;t=block7&quot;}')">Configurator</a></li>                        <li><a href="javascript:void(0)" ng-click="anchorClick('{&quot;label&quot;:&quot;technical specifications&quot;,&quot;target_id&quot;:&quot;t=block6&quot;}')">technical specifications</a></li>                        <li><a href="javascript:void(0)" ng-click="anchorClick('{&quot;label&quot;:&quot;gallery&quot;,&quot;target_id&quot;:&quot;t=gallery&quot;}')">gallery</a></li>                        <li><a href="javascript:void(0)" ng-click="anchorClick('{&quot;label&quot;:&quot;ad personam&quot;,&quot;target_id&quot;:&quot;t=block4&quot;}')">ad personam</a></li>                </ul>
+            </nav>
+        </div>
+
+                  <div ng-if="Globals.MOBILE_DETECT.is_mobile && Globals.MQ !== 'large' && Globals.MQ !== 'medium'" class="assistant-nav mobile" ng-click="toggleAssistantOverlay('assistant')">
+              <img class="icon mic" src="/themes/custom/lambo/img/base/fumetto-pieno-bianco.svg" />
+              <img class="icon close" src="/themes/custom/lambo/img/base/x_close.svg" />
+          </div>
+        
+        <button class="hamburger hamburger--spin hidden-over-medium" type="button" ng-click="toggleMenuMobile()">
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+
+    </div>
+    <div class="fade" ng-if="keyboardOpen" ng-click="onFadeClick()"></div>
+	
+          <div ng-if="!Globals.MOBILE_DETECT.is_mobile || Globals.MQ === 'large' || Globals.MQ === 'medium'" class="assistant-wrapper desktop" assistant>
+          <div class="assistant-main-action" ng-click="animate()">
+              <div class="text">
+                  <label>Ask me</label>
+              </div>
+              <div class="close-button">
+                  <img src="/themes/custom/lambo/img/base/x_close.svg" />
+              </div>
+              <div class="icon">
+                  <img src="/themes/custom/lambo/img/base/fumetto_bucato.svg" />
+              </div>
+          </div>
+          <div class="assistant-content">
+              <div class="assistant-iframe">
+                                        <iframe id="assistant-iframe" src="https://us-central1-lamborghini-ai.cloudfunctions.net/chat/?lang=en&wizard=1&microphone=0&text=1" allow="geolocation; microphone" frameborder="0" scrolling="no"></iframe>
+                                </div>
+                        </div>
+      </div>
+    
+</header>
+
+
+<div id="content" class="relative" id="ariacontent">
+
+  <section id="state" class="">  <div>
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-lambo-content">
+  
+    
+      
+
+        <div class="seo"  role="contentinfo" aria-label="Huracán EVO RWD Rewind to Rear-Wheel Drive"></div><ul class="arialist" tabindex="-1" id="ariacontent"><li role="contentinfo" aria-label="Three-quarter front right side image of Huracán EVO RWD Giallo Belenus moving on the road ">Three-quarter front right side image of Huracán EVO RWD Giallo Belenus moving on the road </li></ul><section aria-hidden="true" class="carousel-top model" ng-cloak carousel-top="{&quot;title&quot;:{&quot;bold&quot;:&quot;Hurac\u00e1n&quot;,&quot;thin&quot;:&quot;EVO RWD&quot;,&quot;sub&quot;:&quot;Rewind to Rear-Wheel Drive&quot;},&quot;children&quot;:[{&quot;images&quot;:{&quot;desktop&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/new\/header-np2.jpg&quot;,&quot;alt&quot;:&quot;Three-quarter front right side image of Hurac\u00e1n EVO RWD Giallo Belenus moving on the road &quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/new\/header-np_M.jpg&quot;,&quot;alt&quot;:&quot;Three-quarter front right side image of Hurac\u00e1n EVO RWD Giallo Belenus moving on the road &quot;}},&quot;color&quot;:&quot;#ffffff&quot;}]}" ><h1 class="seo">
+			Huracán
+							EVO RWD
+										&nbsp;Rewind to Rear-Wheel Drive
+					</h1><div class="wrapper"></div><div class="wrapper-black"></div><ul class="carousel-top-nav"><li ng-repeat="item in data.children" ng-class="getClass($index)" ng-click="dotClick($index)"></li></ul><div class="boxcontent"><div class="h2 "
+				title-centering='{"skipmobile": true}'			><span><strong>[[ data.title.bold ]]</strong> [[ data.title.thin]]</span><br><span class="subtitle">[[data.title.sub]]</span></div><p>[[currentText]]</p></div><a ng-href="[[currentbutton.link.href]]" class="full"></a><a ng-show="currentbutton.label.length > 1" class="btn black" target="[[currentbutton.link.target]]" ng-href="[[currentbutton.link.href]]"><span>[[currentbutton.label]]</span></a></section>
+        <div class="breadcrumbs-holder"><ul id="breadcrumbs" role="navigation"  aria-label="breadcrumbs">                    <li><a href="https://www.lamborghini.com/en-en/">Home</a></li>                    <li><a href="https://www.lamborghini.com/en-en/models">Models</a></li>                    <li><a href="https://www.lamborghini.com/en-en/models/huracan">Huracán Models</a></li>                    <li><a href="https://www.lamborghini.com/en-en/news/created-to-create-3-street-art-meets-an-aventador-s">Huracán Evo Rwd</a></li></ul></div>
+
+
+
+        <div itemscope itemtype ="http://schema.org/Vehicle">
+
+            <meta itemprop="name" content="Huracán EVO RWD" />
+            <meta itemprop="category" content="Huracán" />
+            <meta itemprop="url" content="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" />
+            <meta itemprop="fuelConsumption" content="13 l/100km" />
+            <meta itemprop="vehicleConfiguration" content="V10, 90°, MPI (Multi Point Injection) + DSI (Direct Stratified Injection)" />
+            <meta itemprop="vehicleEngine" content="5,204 cm³ (317.57 cu in)" />
+            <meta itemprop="vehicleTransmission" content="Electronically controlled all-wheel drive system (Haldex gen. V) with rear mechanical self-locking differential" />
+            <img itemprop="image" src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/header-np2.jpg" style="display:none"/>
+
+        </div>
+
+
+
+
+<div id="ariacontent">
+
+
+        <section id="block0" class="stripe row-content block0 fullwidth">
+            <div class="images">    
+
+<svg id="block0_skew" class="skew" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc>Detail of Huracán EVO RWD Giallo Belenus front left side</desc>            <svg viewBox="0 0 1 1.19" preserveAspectRatio="xMidYMid slice">
+                                    <polygon fill="white" points='0 1.19, 1 0, 1 1.19, 0 1.19'/>
+                
+                <clipPath id="block0_skew-mask">
+                                            <polygon fill="green" points='0.02 1.19, 1 0.0238, 1 1.19, 0 1.19'/>
+                                    </clipPath>
+
+                                <image clip-path="url(#block0_skew-mask)"  preserveAspectRatio="xMidYMid slice" x="0" y="0" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/overview-right.jpg"/>
+
+            </svg>
+        </svg></div>
+            <div class="column small-five small-push-one reset last">
+                <div class="boxcontent">
+                    <h2><strong>OVERVIEW</strong> </h2>
+                    <p><p>The Huracán EVO RWD delivers the evolution of the most successful Lamborghini V10 to the realm of pure, unfiltered driving emotion, where skill and engineering excellence combine to deliver an exhilarating experience. As the driver, you exercise greater control over the car to form a unique and intimate bond: Rewind to Rear-Wheel Drive means a return to the origins of mechanical purity, the true essence of a Lamborghini.</p>
+</p>
+                                                        </div>
+            </div>
+            <div class="image-mobile hidden-over-small"><div style="background-image:url(https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/overview-right.jpg)"></div></div>
+        </section>
+
+
+        <section id="block1" class="stripe row-content block1 fullwidth">
+            <div class="images">
+                
+
+<svg id="block1" class="skew" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc></desc>            <svg viewBox="0 0 1.5 1" preserveAspectRatio="xMidYMid slice">
+                <clipPath id="block1-mask">
+                                            <polygon fill="yellow" points='0 0, 1.5 0, 0.66090036882272 1 , 0 1, 0 0'/>
+                                    </clipPath>
+
+                <image clip-path="url(#block1-mask)" preserveAspectRatio="xMidYMid slice" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/overview-left.jpg"/>
+
+            </svg>
+        </svg>                <img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/car-huracan-block1.png" alt="Detail of Huracán EVO RWD Giallo Belenus left side on a background of the sea "/>
+            </div>
+            <div class="column small-five small-push-six reset last">
+                <div class="boxcontent">
+                    <h2><strong>EMOTION</strong> </h2>
+
+                    <p><p>The technological advancements that push Huracán EVO RWD toward the future are counterbalanced by an ever-greater desire to reconnect to the physical, instinctive pleasure of driving. The Huracán EVO RWD embodies the most high-tech return to these origins, and it is dedicated to all those who know they cannot do without technology but embrace the thrill of driving and the joy it can offer. The connoisseur driver holds the reins of the car—controlling it, not the other way around. A strategic game for masters of their car, not for those merely behind the wheel.</p>
+</p>
+
+                                    </div>
+
+            </div>
+
+            <div class="image-mobile hidden-over-small"><div style="background-image:url(https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/overview-left.jpg)"><img src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/car-huracan-block1.png"/></div></div>
+        </section>
+
+
+
+
+
+
+                    <section id="block2" class="stripe row-content block2">
+                <div class="column small-seven small-push-one reset last">
+                    <div class="boxcontent">
+                        <h2><strong>EXTERIOR</strong> </h2>
+
+                        <p><p>Sophisticated aerodynamic solutions are expressed through the iconic Lamborghini Design DNA, which in the Huracán EVO RWD is inspired by the nose of a shark. The design lines emphasize the stance of the car, where the wider front air intake provides an improved aerodynamic system and increased level of efficiency. The characteristic Y-shaped, electric concept headlights adorn the front splitter as an aerodynamic element. Adorning the rear, is an F-Duct spoiler derived from the world of motorsports, which naturally increases downforce through the spoiler's contact with the airflow and harmonizes instinctively with the diffuser below.</p>
+</p>
+                                            </div>
+                </div>
+
+                <div class="images">
+                    
+
+<svg id="block2-skew-1" class="skew-bottom" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc>Rim detail of Huracán EVO RWD</desc>            <svg viewBox="0 0 1.5 1" preserveAspectRatio="xMidYMid slice">
+                <clipPath id="block2-skew-1-mask">
+                                            <polygon fill="red" points='0 0.028571428571429, 1.4760257248235 0.028571428571429, 0.66090036882272 1 , 0 1, 0 0.028571428571429'/>                                                          </clipPath>
+
+                <image clip-path="url(#block2-skew-1-mask)" preserveAspectRatio="xMidYMid slice" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/intern-bottom.jpg"/>
+
+            </svg>
+        </svg>                    
+
+<svg id="block2-skew-2" class="skew-left" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc>Detail of Huracán EVO RWD Giallo Belenus three-quarter front right side</desc>            <svg viewBox="0 0 2.5 1" preserveAspectRatio="xMidYMid slice">
+                <clipPath id="block2-skew-2-mask">
+                                            <polygon fill="yellow" points='0.83909963117728 0, 2.5 0, 1.6609003688227 1 , 0 1, 0.83909963117728 0'/>
+                                    </clipPath>
+
+                                <image clip-path="url(#block2-skew-2-mask)" preserveAspectRatio="xMidYMid slice" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/design-left.jpg"/>
+
+            </svg>
+        </svg>                    
+
+<svg id="block2-skew-3" class="skew-right" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc>Image of Huracán EVO RWD Giallo Belenus three-quarter rear left side</desc>            <svg viewBox="0 0 2.5 1" preserveAspectRatio="xMidYMid slice">
+                <clipPath id="block2-skew-3-mask">
+                                            <polygon fill="green" points='0.86767105974871 0, 2.5 0, 1.6609003688227 1 , 0.028571428571429 1, 0.86767105974871 0'/>
+                                    </clipPath>
+
+                                <image clip-path="url(#block2-skew-3-mask)" preserveAspectRatio="xMidYMid slice" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/design-right.jpg"/>
+
+            </svg>
+        </svg>                    
+
+<svg id="block2-skew-4" class="skew-top" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc>Three-quarter front right side image of Huracán EVO RWD Giallo Belenus moving on the road</desc>            <svg viewBox="0 0 1.5 1" preserveAspectRatio="xMidYMid slice">
+                <clipPath id="block2-skew-4-mask">
+                                            <polygon fill="red" points='0.028571428571429 0, 1.5 0, 1.5 0.97142857142857 , 0.052545703747922 0.97142857142857, 0.86767105974871 0'/>
+                                   </clipPath>
+
+                <image clip-path="url(#block2-skew-4-mask)" preserveAspectRatio="xMidYMid slice" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/design-top.jpg"/>
+
+            </svg>
+        </svg>                </div>
+
+                <div class="images-mobile">
+                    <img src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/design-left.jpg" alt="Detail of Huracán EVO RWD Giallo Belenus three-quarter front right side"/>
+                </div>
+
+                <div id="block2-skew-1-text" class="thxqvello">
+                    <div class="boxcontent">
+                        <h2><strong>INTERIOR</strong> </h2>
+
+                        <p><p>Huracán EVO RWD forges a direct connection with its driver, both physically and through interaction with each of ones senses. This begins with the evolutionary design of the interior, which features an 8.4-inch human-machine Interface built into the central tunnel, imparting a refined on-board touchscreen experience for driver and passenger. Upholstery is available in either or Alcantara with additional features such as our &nbsp;Carbon Skin®, an innovative carbon fiber material available only from Lamborghini, thus creating an atmosphere of exclusive yet informal luxury.</p>
+</p>
+                                            </div>
+                </div>
+            </section>
+        
+
+
+
+
+
+
+
+                    <section id="block3" class="stripe row-content block3">
+                <div class="column small-four reset">
+                    <div class="pic" role="contentinfo" aria-label="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/intern1.jpg"></div>
+                </div>
+                <div class="column small-eight reset">
+                    <div class="pic" role="contentinfo" aria-label="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/intern2.jpg"></div>
+                </div>
+            </section>
+        
+
+                    <div class="seo">DRIVING DYNAMICS</div>
+            <ul class="arialist" tabindex="-1">
+                <li><a href="#gallery"></a></li>
+                <li><p>The vehicle dynamics have been developed and refined to produce a car that is more fun to drive, providing the driver with a more direct response and outstanding handling performance. The result is driving emotion that is unparalleled within the segment. The Lamborghini Inertial Platform (LPI) - Huracán EVO RWD's central dynamic system, provides accurate, real-time control of the car’s behavior. As options, the vertical dynamics are managed by the magnetorheological suspension (LMS) system while, the Lamborghini Dynamic Steering (LDS) system handles lateral dynamics.</p>
+</li>
+                                <li><h6>HMI</h6><p><p>The new human-machine interface of the Huracán EVO RWD is the ultimate technological advancement. While traditional push buttons become less dominant, the central tunnel features a generous 8.4-inch multi-touch capacitive screen. A simple tap of your finger manages entertainment functions, displays real-time traffic information, and adapts the cockpit lights to the current driving mode, through our optional Ambient Lighting Package. The system offers enhanced connectivity as never seen before in a Huracán.</p>
+</p></li>
+                                <li><h6>AERODYNAMICS</h6><p><p>The design of the Huracán EVO RWD has been carefully engineered to improve aerodynamic efficiency from every vantage point. The front splitter’s design focuses on aerodynamic functionality. Through the opening of a slot, a suspended wing achieves two important objectives: to harness and optimize the air flow passing underneath the car, and to improve engine and brake cooling through a sharp increase of the frontal flow rates. The redesigned rear diffuser further increases the vertical downforce produced, in comparison to the all-wheel-drive variant of the Huracán EVO.<br />
+&nbsp;</p>
+</p></li>
+                                <li><h6>ENGINE</h6><p><p>The distinctive, naturally aspirated V10 engine derived from the Huracán EVO—the top-performance V10 evolution—maintains that engine’s same fundamental technological characteristics, including the unmistakable Lamborghini V10 sound, the light-alloy construction and titanium intake valves.</p>
+</p></li>
+                                <li><h6>SUSPENSION</h6><p><p>The architecture of the Huracán EVO RWD suspension forms overlapping quadrilateral members that optimize handling and sport-oriented performance. The optional magnetorheological shock absorbers instantaneously react to driving style, adapting to the road conditions and driving dynamics, further improving the overall feedback and control of the car.</p>
+</p></li>
+                                <li><h6>STEERING</h6><p><p>The Huracán EVO RWD is equipped with an Electronic Power Steering (EPS) system, which seamlessly adapts to all driving styles to deliver the ideal amount of steering assistance, both on the track and on the road. The EPS is also supported by the optional Lamborghini Dynamic Steering (LDS) system, which provides a dynamic variation of the steering ratio, changing according to the vehicle’s conditions and ANIMA mode selected</p>
+</p></li>
+                                <li><h6>P-TCS</h6><p><p>A new feature maximizes the performance of the Huracán EVO RWD: P-TCS (Performance Traction Control). Compared to standard traction control systems, the proactive management of torque to the rear wheels improves effectiveness on low-grip surfaces in Strada mode, maximizes the “fun-to-drive” element in Sport mode, and enhances vehicle traction and sharpness at corner exit in Corsa mode.</p>
+</p></li>
+                                <li><h6>TRANSMISSION</h6><p><p>Imagine you could use two clutch mechanisms in the same unit: while one gear is engaged, the other is already selected to reduce gear change time to a minimum. This is what the Huracán EVO RWD delivers, thanks to its 7-speed Lamborghini Dual Clutch (LDF) transmission, a mechanism that allows the clutch and gears to work almost instantaneously and as seamlessly as possible.</p>
+</p></li>
+                                <li><h6>TRACTION</h6><p><p>The intent of the Huracán EVO RWD is not simply to direct power to the rear wheels. Rather, every aspect of vehicle design has been tuned to maximize the thrilling driving dynamics that come from a rear-wheel-drive architecture. This included modifying aerodynamic systems and bodywork to optimize air flow, and developing P-TCS, Lamborghini's specific traction-control management that prioritizes sportiness while providing confident, visceral feedback that only Huracán EVO RWD can deliver.&nbsp;<br />
+&nbsp;</p>
+</p></li>
+                            </ul>
+
+            <section id="block5" class="stripe centered row-content block5" carousel-techspec="" aria-hidden="true">
+
+                <div class="column medium-eight medium-push-two small-ten small-push-one tiny-full reset last relative">
+                    <h2><strong>DRIVING</strong> DYNAMICS</h2>
+                    <p><p>The vehicle dynamics have been developed and refined to produce a car that is more fun to drive, providing the driver with a more direct response and outstanding handling performance. The result is driving emotion that is unparalleled within the segment. The Lamborghini Inertial Platform (LPI) - Huracán EVO RWD's central dynamic system, provides accurate, real-time control of the car’s behavior. As options, the vertical dynamics are managed by the magnetorheological suspension (LMS) system while, the Lamborghini Dynamic Steering (LDS) system handles lateral dynamics.</p>
+</p>
+                </div>
+
+                
+
+                
+
+                                  <div class="column small-ten small-push-one reset last columns carousel-techspec">
+                      <button class="btn-arrow prev" ng-click="prev()"></button>
+                      <button class="btn-arrow next" ng-click="next()"></button>
+
+                      <div class="top" ng-swipe-left="next()" ng-swipe-right="prev()">
+                          <div class="wrapper">
+                              <div class="item" ng-class="getItemClass(0)">
+                                  <div class="pic-holder">
+                                      <div class="pic"><img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/restyle/HMI.png" alt="HMI"/></div>
+                                  </div>
+                                  <div class="bottom"><h5>HMI</h5>
+                                      <p><p>The new human-machine interface of the Huracán EVO RWD is the ultimate technological advancement. While traditional push buttons become less dominant, the central tunnel features a generous 8.4-inch multi-touch capacitive screen. A simple tap of your finger manages entertainment functions, displays real-time traffic information, and adapts the cockpit lights to the current driving mode, through our optional Ambient Lighting Package. The system offers enhanced connectivity as never seen before in a Huracán.</p>
+</p></div>
+                                  </div><div class="item" ng-class="getItemClass(1)">
+                                  <div class="pic-holder">
+                                      <div class="pic"><img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/aerodynamics.jpg" alt=""/></div>
+                                  </div>
+                                  <div class="bottom"><h5>AERODYNAMICS</h5>
+                                      <p><p>The design of the Huracán EVO RWD has been carefully engineered to improve aerodynamic efficiency from every vantage point. The front splitter’s design focuses on aerodynamic functionality. Through the opening of a slot, a suspended wing achieves two important objectives: to harness and optimize the air flow passing underneath the car, and to improve engine and brake cooling through a sharp increase of the frontal flow rates. The redesigned rear diffuser further increases the vertical downforce produced, in comparison to the all-wheel-drive variant of the Huracán EVO.<br />
+&nbsp;</p>
+</p></div>
+                                  </div><div class="item" ng-class="getItemClass(2)">
+                                  <div class="pic-holder">
+                                      <div class="pic"><img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/restyle/04_Solo-Motore.jpg" alt="ENGINE"/></div>
+                                  </div>
+                                  <div class="bottom"><h5>ENGINE</h5>
+                                      <p><p>The distinctive, naturally aspirated V10 engine derived from the Huracán EVO—the top-performance V10 evolution—maintains that engine’s same fundamental technological characteristics, including the unmistakable Lamborghini V10 sound, the light-alloy construction and titanium intake valves.</p>
+</p></div>
+                                  </div><div class="item" ng-class="getItemClass(3)">
+                                  <div class="pic-holder">
+                                      <div class="pic"><img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/driving_dynamics/5_sospensioni.png" alt="SUSPENSION"/></div>
+                                  </div>
+                                  <div class="bottom"><h5>SUSPENSION</h5>
+                                      <p><p>The architecture of the Huracán EVO RWD suspension forms overlapping quadrilateral members that optimize handling and sport-oriented performance. The optional magnetorheological shock absorbers instantaneously react to driving style, adapting to the road conditions and driving dynamics, further improving the overall feedback and control of the car.</p>
+</p></div>
+                                  </div><div class="item" ng-class="getItemClass(4)">
+                                  <div class="pic-holder">
+                                      <div class="pic"><img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/driving_dynamics/6_sterzo.png" alt="STEERING"/></div>
+                                  </div>
+                                  <div class="bottom"><h5>STEERING</h5>
+                                      <p><p>The Huracán EVO RWD is equipped with an Electronic Power Steering (EPS) system, which seamlessly adapts to all driving styles to deliver the ideal amount of steering assistance, both on the track and on the road. The EPS is also supported by the optional Lamborghini Dynamic Steering (LDS) system, which provides a dynamic variation of the steering ratio, changing according to the vehicle’s conditions and ANIMA mode selected</p>
+</p></div>
+                                  </div><div class="item" ng-class="getItemClass(5)">
+                                  <div class="pic-holder">
+                                      <div class="pic"><img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/ptcs_new.jpg" alt=""/></div>
+                                  </div>
+                                  <div class="bottom"><h5>P-TCS</h5>
+                                      <p><p>A new feature maximizes the performance of the Huracán EVO RWD: P-TCS (Performance Traction Control). Compared to standard traction control systems, the proactive management of torque to the rear wheels improves effectiveness on low-grip surfaces in Strada mode, maximizes the “fun-to-drive” element in Sport mode, and enhances vehicle traction and sharpness at corner exit in Corsa mode.</p>
+</p></div>
+                                  </div><div class="item" ng-class="getItemClass(6)">
+                                  <div class="pic-holder">
+                                      <div class="pic"><img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/driving_dynamics/7_trasmissione.png" alt="TRANSMISSION"/></div>
+                                  </div>
+                                  <div class="bottom"><h5>TRANSMISSION</h5>
+                                      <p><p>Imagine you could use two clutch mechanisms in the same unit: while one gear is engaged, the other is already selected to reduce gear change time to a minimum. This is what the Huracán EVO RWD delivers, thanks to its 7-speed Lamborghini Dual Clutch (LDF) transmission, a mechanism that allows the clutch and gears to work almost instantaneously and as seamlessly as possible.</p>
+</p></div>
+                                  </div><div class="item" ng-class="getItemClass(7)">
+                                  <div class="pic-holder">
+                                      <div class="pic"><img lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/driving_dynamics/8_trazione-integrale.png" alt="TRACTION"/></div>
+                                  </div>
+                                  <div class="bottom"><h5>TRACTION</h5>
+                                      <p><p>The intent of the Huracán EVO RWD is not simply to direct power to the rear wheels. Rather, every aspect of vehicle design has been tuned to maximize the thrilling driving dynamics that come from a rear-wheel-drive architecture. This included modifying aerodynamic systems and bodywork to optimize air flow, and developing P-TCS, Lamborghini's specific traction-control management that prioritizes sportiness while providing confident, visceral feedback that only Huracán EVO RWD can deliver.&nbsp;<br />
+&nbsp;</p>
+</p></div>
+                                  </div>                          </div>
+                      </div>
+                  </div>
+                
+
+            </section>
+        
+
+
+        <!--             <section id="block7" class="stripe row-content block7 fullwidth" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/cc_.jpg" role="contentinfo" aria-label=""> -->
+            <section id="block7" class="stripe row-content block7 fullwidth">
+
+                <div class="title"> <h2 title-centering=""><strong>CREATE YOUR Huracán Evo Rwd</strong></h2><div class="buttons"><a class="btn" href="http://configurator.lamborghini.com/presets/evorwd?modelyear=2020" target="_blank"><span>CUSTOMIZE NOW</span></a></div></div>
+
+                <img src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/cc_.jpg" alt=""/>
+
+                <!-- <div class="buttons"><a class="btn" href="http://configurator.lamborghini.com/presets/evorwd?modelyear=2020" target="_blank"><span>CUSTOMIZE NOW</span></a></div> -->
+
+<!--                 <div class="title"> <h2 title-centering=""><strong>CREATE YOUR Huracán Evo Rwd</strong> <br><span class="subtitle" style="background-color:#000000;">CONFIGURATOR</span></h2></div> -->
+
+            </section>
+        
+
+
+
+
+
+
+
+                  <section id="block6" class="stripe row-content blocktechspec" lazy-src="/themes/custom/lambo/img/base/bg-tec-spec.jpg">
+            <div class="column medium-eight medium-push-two small-ten small-push-one reset last">
+              <h3><strong>technical</strong> specifications</h3>
+              <ul class="arialist" tabindex="-1">
+                <li><a href="#gallery"></a></li>
+                                  <li><h6>ENGINE</h6><ul><li><h6>engine</h6><p>V10, 90°, MPI (Multi Point Injection) + DSI (Direct Stratified Injection)</p></li><li><h6>displacement</h6><p>5,204 cm³ (317.57 cu in)</p></li><li><h6>bore x stroke</h6><p>84.5 x 92.8 mm (3.33 x 3.65 in)</p></li><li><h6>compression ratio</h6><p>12.7:1</p></li><li><h6>Max. power</h6><p>610 CV (449 kW) @ 8,000 rpm</p></li><li><h6>Max. torque</h6><p>560 Nm @ 6,500 rpm</p></li><li><h6>weight to power ratio</h6><p>2,27 kg/CV (5.02 lb/CV)</p></li><li><h6>lubrication</h6><p>Dry sump</p></li><li><h6>emission class</h6><p>Euro 6 - LEV 3</p></li></ul></li>
+                                  <li><h6>TRANSMISSION</h6><ul><li><h6>transmission type</h6><p>Electronically controlled all-wheel drive system (Haldex gen. V) with rear mechanical self-locking differential</p></li><li><h6>gearbox</h6><p>Dual clutch gearbox LDF (Lamborghini Doppia Frizione) with 7 speeds</p></li></ul></li>
+                                  <li><h6>PERFORMANCE</h6><ul><li><h6>Top speed</h6><p>325 km/h</p></li><li><h6>braking 100-0 km/h (62-0 mph)</h6><p>31.9 m</p></li></ul></li>
+                                  <li><h6>BODY AND CHASSIS</h6><ul><li><h6>chassis</h6><p>Hybrid in aluminum and carbon fiber</p></li><li><h6>body</h6><p>Aluminum and synthetic material</p></li><li><h6>top roof</h6><p></p></li><li><h6>mirrors</h6><p>Hybrid in aluminum and carbon fiber</p></li><li><h6>Aerodynamics</h6><p>Front splitter with integrated wing, underbody with aerodynamic deflector and backend with integrated slotted spoiler</p></li></ul></li>
+                                  <li><h6>WHEELS</h6><ul><li><h6>front rims</h6><p>19'' ; 8.5J x 19 ET 42</p></li><li><h6>rear rims</h6><p>19'' ; 11Jx19 ET 40</p></li><li><h6>front tiers</h6><p>245/35 Z R19</p></li><li><h6>rear tiers</h6><p>305/35Z R19</p></li></ul></li>
+                                  <li><h6>STEERING AND SUSPENSION</h6><ul><li><h6>control system</h6><p>Electronic Stability Control (integrating ABS and TCS)</p></li><li><h6>SUSPENSION TYPE</h6><p>Double wishbone fully independent suspension</p></li><li><h6>steering system</h6><p>Electro-mechanical Power Steering (EPS)</p></li></ul></li>
+                                  <li><h6>BRAKING SYSTEM</h6><ul><li><h6>brakes</h6><p>Cast iron brakes with fixed monoblock calipers with 8 pistons (front) and 4 pistons (rear), in aluminum, iron disks</p></li></ul></li>
+                                  <li><h6>SAFETY</h6><ul><li><h6>Airbags</h6><p>Driver, passenger and side airgbags; knee airbags in selected markets</p></li></ul></li>
+                                  <li><h6>DIMENSION</h6><ul><li><h6>length</h6><p>4,520 mm (177.9 in)</p></li><li><h6>width (excluding mirrors)</h6><p>1,933 mm (76.10 in)</p></li><li><h6>width (including mirrors)</h6><p>2,236 mm (88.03 in)</p></li><li><h6>height</h6><p>1,165 mm (45.86 in)</p></li><li><h6>wheelbase</h6><p>2,620 mm (103.14 in)</p></li><li><h6>dry weight</h6><p>1389 kg</p></li><li><h6>weight distribution</h6><p>% 40/60</p></li></ul></li>
+                                  <li><h6>CONSUMPTION</h6><ul><li><h6>Urban</h6><p>13 l/100km</p></li><li><h6>Combined</h6><p>15 l/100km</p></li><li><h6>Extraurban</h6><p>18 l/100km</p></li><li><h6>CO2 Emission</h6><p> g/km</p></li><li><h6>Emission Law</h6><p> Reg. USA and Canada</p></li></ul></li>
+                              </ul>
+              <div class="tabnav" tabnav aria-hidden="true">
+                  <div class="top hidden-under-medium">
+                    <div class="wrappertabs">
+                                              <span class="tab" ng-click="showTab($event,0)" ng-class="currentTabIndex==0?'active':''">ENGINE</span>
+                                              <span class="tab" ng-click="showTab($event,1)" ng-class="currentTabIndex==1?'active':''">TRANSMISSION</span>
+                                              <span class="tab" ng-click="showTab($event,2)" ng-class="currentTabIndex==2?'active':''">PERFORMANCE</span>
+                                              <span class="tab" ng-click="showTab($event,3)" ng-class="currentTabIndex==3?'active':''">BODY AND CHASSIS</span>
+                                              <span class="tab" ng-click="showTab($event,4)" ng-class="currentTabIndex==4?'active':''">WHEELS</span>
+                                              <span class="tab" ng-click="showTab($event,5)" ng-class="currentTabIndex==5?'active':''">STEERING AND SUSPENSION</span>
+                                              <span class="tab" ng-click="showTab($event,6)" ng-class="currentTabIndex==6?'active':''">BRAKING SYSTEM</span>
+                                              <span class="tab" ng-click="showTab($event,7)" ng-class="currentTabIndex==7?'active':''">SAFETY</span>
+                                              <span class="tab" ng-click="showTab($event,8)" ng-class="currentTabIndex==8?'active':''">DIMENSION</span>
+                                              <span class="tab" ng-click="showTab($event,9)" ng-class="currentTabIndex==9?'active':''">CONSUMPTION</span>
+                                          </div>
+                  </div>
+                  <div class="bottom" ng-swipe-left="next()" ng-swipe-right="prev()">
+                    <span ng-if="currentTabIndex>0" class="icon-arrow-prev icon-arrow-prev-mobile" ng-click="prev()"></span><span ng-click="next()" ng-if="currentTabIndex<tabLength-1" class="icon-arrow-next icon-arrow-next-mobile"></span>
+                    <div class="wrapper">
+                      <ul class="content_0 tabcontent" >
+                          <h5 class="hidden-over-medium">ENGINE</h5>
+                                                        <li><h4 class="label">engine</h4><span class="data">V10, 90°, MPI (Multi Point Injection) + DSI (Direct Stratified Injection)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">displacement</h4><span class="data">5,204 cm³ (317.57 cu in)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">bore x stroke</h4><span class="data">84.5 x 92.8 mm (3.33 x 3.65 in)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">compression ratio</h4><span class="data">12.7:1</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">Max. power</h4><span class="data">610 CV (449 kW) @ 8,000 rpm</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">Max. torque</h4><span class="data">560 Nm @ 6,500 rpm</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">weight to power ratio</h4><span class="data">2,27 kg/CV (5.02 lb/CV)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">lubrication</h4><span class="data">Dry sump</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">emission class</h4><span class="data">Euro 6 - LEV 3</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_1 tabcontent" >
+                          <h5 class="hidden-over-medium">TRANSMISSION</h5>
+                                                        <li><h4 class="label">transmission type</h4><span class="data">Electronically controlled all-wheel drive system (Haldex gen. V) with rear mechanical self-locking differential</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">gearbox</h4><span class="data">Dual clutch gearbox LDF (Lamborghini Doppia Frizione) with 7 speeds</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_2 tabcontent" >
+                          <h5 class="hidden-over-medium">PERFORMANCE</h5>
+                                                        <li><h4 class="label">Top speed</h4><span class="data">325 km/h</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">braking 100-0 km/h (62-0 mph)</h4><span class="data">31.9 m</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_3 tabcontent" >
+                          <h5 class="hidden-over-medium">BODY AND CHASSIS</h5>
+                                                        <li><h4 class="label">chassis</h4><span class="data">Hybrid in aluminum and carbon fiber</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">body</h4><span class="data">Aluminum and synthetic material</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">top roof</h4><span class="data"></span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">mirrors</h4><span class="data">Hybrid in aluminum and carbon fiber</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">Aerodynamics</h4><span class="data">Front splitter with integrated wing, underbody with aerodynamic deflector and backend with integrated slotted spoiler</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_4 tabcontent" >
+                          <h5 class="hidden-over-medium">WHEELS</h5>
+                                                        <li><h4 class="label">front rims</h4><span class="data">19&#039;&#039; ; 8.5J x 19 ET 42</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">rear rims</h4><span class="data">19&#039;&#039; ; 11Jx19 ET 40</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">front tiers</h4><span class="data">245/35 Z R19</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">rear tiers</h4><span class="data">305/35Z R19</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_5 tabcontent" >
+                          <h5 class="hidden-over-medium">STEERING AND SUSPENSION</h5>
+                                                        <li><h4 class="label">control system</h4><span class="data">Electronic Stability Control (integrating ABS and TCS)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">SUSPENSION TYPE</h4><span class="data">Double wishbone fully independent suspension</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">steering system</h4><span class="data">Electro-mechanical Power Steering (EPS)</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_6 tabcontent" >
+                          <h5 class="hidden-over-medium">BRAKING SYSTEM</h5>
+                                                        <li><h4 class="label">brakes</h4><span class="data">Cast iron brakes with fixed monoblock calipers with 8 pistons (front) and 4 pistons (rear), in aluminum, iron disks</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_7 tabcontent" >
+                          <h5 class="hidden-over-medium">SAFETY</h5>
+                                                        <li><h4 class="label">Airbags</h4><span class="data">Driver, passenger and side airgbags; knee airbags in selected markets</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_8 tabcontent" >
+                          <h5 class="hidden-over-medium">DIMENSION</h5>
+                                                        <li><h4 class="label">length</h4><span class="data">4,520 mm (177.9 in)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">width (excluding mirrors)</h4><span class="data">1,933 mm (76.10 in)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">width (including mirrors)</h4><span class="data">2,236 mm (88.03 in)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">height</h4><span class="data">1,165 mm (45.86 in)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">wheelbase</h4><span class="data">2,620 mm (103.14 in)</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">dry weight</h4><span class="data">1389 kg</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">weight distribution</h4><span class="data">% 40/60</span><div style="clear:both"></div></li>
+                                                </ul><ul class="content_9 tabcontent" >
+                          <h5 class="hidden-over-medium">CONSUMPTION</h5>
+                                                        <li><h4 class="label">Urban</h4><span class="data">13 l/100km</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">Combined</h4><span class="data">15 l/100km</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">Extraurban</h4><span class="data">18 l/100km</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">CO2 Emission</h4><span class="data"> g/km</span><div style="clear:both"></div></li>
+                                                        <li><h4 class="label">Emission Law</h4><span class="data"> Reg. USA and Canada</span><div style="clear:both"></div></li>
+                                                </ul>                    </div>
+                  </div>
+                  <span class="icon-arrow-prev icon-arrow-prev-tabs" ng-mousedown="prevTab()" ng-mouseup="arrowKeyUp()" ng-class="getArrowClass(true)"></span>
+                  <span class="icon-arrow-next icon-arrow-next-tabs" ng-mousedown="nextTab()" ng-mouseup="arrowKeyUp()" ng-class="getArrowClass(false)"></span>
+                </div>
+                              </div>
+            </section>
+        
+        
+
+
+                    <div id="gallery">
+                <section id="gallery" class="gallery" gallery="{&quot;id&quot;:&quot;gallery&quot;,&quot;title&quot;:{&quot;bold&quot;:&quot;gallery&quot;},&quot;label_loadmore&quot;:&quot;discover me&quot;,&quot;children&quot;:[{&quot;images&quot;:{&quot;fullsize&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/gallery-1.jpg&quot;,&quot;alt&quot;:&quot;Three-quarter front right side image of Hurac\u00e1n EVO RW Giallo Belenus moving on the road &quot;},&quot;thumbnail&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/thumb-1.jpg&quot;,&quot;alt&quot;:&quot;Three-quarter front right side image of Hurac\u00e1n EVO RW Giallo Belenus moving on the road &quot;}}},{&quot;images&quot;:{&quot;fullsize&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/gallery-4.jpg&quot;,&quot;alt&quot;:&quot;Detail of Hurac\u00e1n EVO RW Giallo Belenus three-quarter front right side&quot;},&quot;thumbnail&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/thumb-4.jpg&quot;,&quot;alt&quot;:&quot;Detail of Hurac\u00e1n EVO RW Giallo Belenus three-quarter front right side&quot;}}},{&quot;images&quot;:{&quot;fullsize&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/gallery-5.jpg&quot;,&quot;alt&quot;:&quot;Image of Hurac\u00e1n EVO RW Giallo Belenus three-quarter rear left side&quot;},&quot;thumbnail&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/thumb-5.jpg&quot;,&quot;alt&quot;:&quot;Image of Hurac\u00e1n EVO RW Giallo Belenus three-quarter rear left side&quot;}}},{&quot;images&quot;:{&quot;fullsize&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/gallery-8.jpg&quot;,&quot;alt&quot;:&quot;Cockpit detail of Hurac\u00e1n EVO RW&quot;},&quot;thumbnail&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/thumb-8.jpg&quot;,&quot;alt&quot;:&quot;Cockpit detail of Hurac\u00e1n EVO RW&quot;}}},{&quot;images&quot;:{&quot;fullsize&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/gallery-2.jpg&quot;,&quot;alt&quot;:&quot;Detail of Hurac\u00e1n EVO RW Giallo Belenus front left side&quot;},&quot;thumbnail&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/thumb-2.jpg&quot;,&quot;alt&quot;:&quot;Detail of Hurac\u00e1n EVO RW Giallo Belenus front left side&quot;}}},{&quot;images&quot;:{&quot;fullsize&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/gallery-6.jpg&quot;,&quot;alt&quot;:&quot;Three-quarter front right side image of Hurac\u00e1n EVO RW Giallo Belenus moving on the road &quot;},&quot;thumbnail&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/thumb-6.jpg&quot;,&quot;alt&quot;:&quot;Three-quarter front right side image of Hurac\u00e1n EVO RW Giallo Belenus moving on the road &quot;}}},{&quot;images&quot;:{&quot;fullsize&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/gallery-7.jpg&quot;,&quot;alt&quot;:&quot;Rim detail of Hurac\u00e1n EVO RW &quot;},&quot;thumbnail&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/thumb-7.jpg&quot;,&quot;alt&quot;:&quot;Rim detail of Hurac\u00e1n EVO RW &quot;}}},{&quot;images&quot;:{&quot;fullsize&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/gallery-3.jpg&quot;,&quot;alt&quot;:&quot;Overview of Hurac\u00e1n EVO RW\u2019s interior with yellow details&quot;},&quot;thumbnail&quot;:{&quot;src&quot;:&quot;https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/model\/huracan\/huracan-evo-rwd\/gallery\/new\/thumb-3.jpg&quot;,&quot;alt&quot;:&quot;Overview of Hurac\u00e1n EVO RW\u2019s interior with yellow details&quot;}}}],&quot;visible&quot;:true}">
+    <h6    ng-class="getBodyClasses()">gallery</h6>
+
+    <div class="thumbnails" ng-swipe-left="next()" ng-swipe-right="prev()">
+        <div class="wrapper"><div class="col" ng-repeat="col in cols">
+                <div class="item" ng-class="getClass(item.i)" ng-repeat="item in col track by $index"
+                     ng-click="itemClick(item.i)"><img lazy-src="[[item.images.thumbnail.src]]" alt="[[item.images.thumbnail.alt]]"/>
+
+                    <div class="fade"></div>
+                    <div class="icon-play" ng-if="item.video"></div>
+                </div>
+            </div>
+        </div>
+        <div class="btn-holder hidden-under-small" ng-if="!isOpen">
+            <div class="btn white" ng-click="toggleOpen()" aria-hidden="true"><span>discover me</span></div>
+        </div>
+
+    </div>
+    <div class="player" ng-style="{'background-image':'url('+data.children[currentItemId].images.fullsize.src+')'}">
+
+                    <div class="addthis_toolbox addthis_default_style at_share at_share_0" ng-style="{'display':(currentItemId==0?'block':'none')}" addthis:url="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd?i=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/gallery/new/gallery-1.jpg">
+                                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_twitter"></a>
+                    <a class="addthis_button_pinterest_share"></a>
+                    <a class="addthis_button_google_plusone_share"></a>
+                                <a class="addthis_button_sinaweibo"></a>
+                <a class="addthis_button_wechat"></a>
+            </div>
+                    <div class="addthis_toolbox addthis_default_style at_share at_share_1" ng-style="{'display':(currentItemId==1?'block':'none')}" addthis:url="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd?i=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/gallery/new/gallery-4.jpg">
+                                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_twitter"></a>
+                    <a class="addthis_button_pinterest_share"></a>
+                    <a class="addthis_button_google_plusone_share"></a>
+                                <a class="addthis_button_sinaweibo"></a>
+                <a class="addthis_button_wechat"></a>
+            </div>
+                    <div class="addthis_toolbox addthis_default_style at_share at_share_2" ng-style="{'display':(currentItemId==2?'block':'none')}" addthis:url="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd?i=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/gallery/new/gallery-5.jpg">
+                                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_twitter"></a>
+                    <a class="addthis_button_pinterest_share"></a>
+                    <a class="addthis_button_google_plusone_share"></a>
+                                <a class="addthis_button_sinaweibo"></a>
+                <a class="addthis_button_wechat"></a>
+            </div>
+                    <div class="addthis_toolbox addthis_default_style at_share at_share_3" ng-style="{'display':(currentItemId==3?'block':'none')}" addthis:url="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd?i=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/gallery/new/gallery-8.jpg">
+                                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_twitter"></a>
+                    <a class="addthis_button_pinterest_share"></a>
+                    <a class="addthis_button_google_plusone_share"></a>
+                                <a class="addthis_button_sinaweibo"></a>
+                <a class="addthis_button_wechat"></a>
+            </div>
+                    <div class="addthis_toolbox addthis_default_style at_share at_share_4" ng-style="{'display':(currentItemId==4?'block':'none')}" addthis:url="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd?i=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/gallery/new/gallery-2.jpg">
+                                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_twitter"></a>
+                    <a class="addthis_button_pinterest_share"></a>
+                    <a class="addthis_button_google_plusone_share"></a>
+                                <a class="addthis_button_sinaweibo"></a>
+                <a class="addthis_button_wechat"></a>
+            </div>
+                    <div class="addthis_toolbox addthis_default_style at_share at_share_5" ng-style="{'display':(currentItemId==5?'block':'none')}" addthis:url="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd?i=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/gallery/new/gallery-6.jpg">
+                                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_twitter"></a>
+                    <a class="addthis_button_pinterest_share"></a>
+                    <a class="addthis_button_google_plusone_share"></a>
+                                <a class="addthis_button_sinaweibo"></a>
+                <a class="addthis_button_wechat"></a>
+            </div>
+                    <div class="addthis_toolbox addthis_default_style at_share at_share_6" ng-style="{'display':(currentItemId==6?'block':'none')}" addthis:url="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd?i=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/gallery/new/gallery-7.jpg">
+                                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_twitter"></a>
+                    <a class="addthis_button_pinterest_share"></a>
+                    <a class="addthis_button_google_plusone_share"></a>
+                                <a class="addthis_button_sinaweibo"></a>
+                <a class="addthis_button_wechat"></a>
+            </div>
+                    <div class="addthis_toolbox addthis_default_style at_share at_share_7" ng-style="{'display':(currentItemId==7?'block':'none')}" addthis:url="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd?i=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/gallery/new/gallery-3.jpg">
+                                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_twitter"></a>
+                    <a class="addthis_button_pinterest_share"></a>
+                    <a class="addthis_button_google_plusone_share"></a>
+                                <a class="addthis_button_sinaweibo"></a>
+                <a class="addthis_button_wechat"></a>
+            </div>
+        
+
+        <div class="player-holder"></div><div class="subscribe-holder"><div class="g-ytsubscribe" data-channel="Lamborghini" data-layout="default" data-count="hidden"></div></div>    </div>
+</section>
+<style>
+#gallery .player{
+  padding-bottom: 0;
+}
+</style>
+            </div>
+        
+
+
+
+
+
+
+                    <section id="block4" class="stripe row-content block4">
+                <div class="column small-seven small-push-one reset last">
+                    <div class="boxcontent">
+                        <h2><strong>AD</strong> PERSONAM</h2>
+
+                        <p><p>Discover the nearly endless options available to personalize your Huracán EVO RWD through the Lamborghini Ad Personam program. Lamborghini feels that every evolution should bring out the best in the car, and its driver. We also believe in offering the opportunity to customize your high-performance sports car to your specific taste. This is why we have carefully designed the colors of the exterior, interior, cockpit materials, stitching, brake calipers and wheels to offer countless combinations, allowing you to create and own a car that is one of a kind, born from the finest Italian design. Your Lamborghini dealer is available to carefully advise you on the available personalization options, so that your Lamborghini will be fully tailored to your needs.</p>
+</p>
+                                </div>
+                </div>
+
+                <div class="images">
+                    <div class="image-mobile hidden-over-small">
+                        <img src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/freni_ad_personam.jpg" alt="">
+                    </div>
+                    
+
+<svg id="block4-skew-2" class="skew-left" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc>Cockpit detail of Huracán EVO RWD</desc>            <svg viewBox="0 0 2.5 1" preserveAspectRatio="xMidYMid slice">
+                <clipPath id="block4-skew-2-mask">
+                                            <polygon fill="yellow" points='0.83909963117728 0, 2.5 0, 1.6609003688227 1 , 0 1, 0.83909963117728 0'/>
+                                    </clipPath>
+
+                                <image clip-path="url(#block4-skew-2-mask)" preserveAspectRatio="xMidYMid slice" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/huracan-evo-rwd/new/freni_ad_personam.jpg"/>
+
+            </svg>
+        </svg>                    
+
+<svg id="block4-skew-3" class="skew-right" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc>Image showing a set of accessories for customizing the car. Front of a rim hanging on the wall</desc>            <svg viewBox="0 0 2.5 1" preserveAspectRatio="xMidYMid slice">
+                <clipPath id="block4-skew-3-mask">
+                                            <polygon fill="green" points='0.86767105974871 0, 2.5 0, 1.6609003688227 1 , 0.028571428571429 1, 0.86767105974871 0'/>
+                                    </clipPath>
+
+                                <image clip-path="url(#block4-skew-3-mask)" preserveAspectRatio="xMidYMid slice" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/Block5_Image_Right.jpg"/>
+
+            </svg>
+        </svg>                    
+
+<svg id="block4-skew-4" class="skew-top" xmlns="http://www.w3.org/2000/svg" aria-labelledby="desc">
+                <desc>Details of the color palette hexagons </desc>            <svg viewBox="0 0 1.5 1" preserveAspectRatio="xMidYMid slice">
+                <clipPath id="block4-skew-4-mask">
+                                            <polygon fill="red" points='0.028571428571429 0, 1.5 0, 1.5 0.97142857142857 , 0.052545703747922 0.97142857142857, 0.86767105974871 0'/>
+                                   </clipPath>
+
+                <image clip-path="url(#block4-skew-4-mask)" preserveAspectRatio="xMidYMid slice" height="100%" width="100%" xlink:href="" lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/Block5_Image_Top.JPG"/>
+
+            </svg>
+        </svg>                </div>
+
+                <div class="thxqvello">
+                    <div class="boxcontent">
+                                            </div>
+                </div>
+            </section>
+        
+
+
+        
+
+
+
+
+        
+            <section class="stripe blockbottom row-content fullwidth">
+    <div class="column small-half reset">
+        <div class="box-half"><a href="https://www.lamborghini.com/en-en/models"><img
+                        lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/homepage/block_bottom/2019_RoofsDown_3CAR_Image1.jpg" alt=""/>
+                <h5>Lamborghini <span
+                            class="small">Models</span></h5></a></div>
+    </div>
+    <div class="column small-half reset last">
+        <div class="box-half"><a href="https://www.lamborghini.com/en-en/ownership/accessori-originali"><img
+                        lazy-src="https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/model/huracan/Evo/Bottom_Right_Image.jpg" alt=""/>
+                <h5>original <span
+                            class="small">accessories</span></h5></a></div>
+    </div>
+    </section>
+        
+</div>
+
+<script>
+;(function(){
+	var hash = 'gallery';
+	if(window.location.hash == '#' + hash) {
+		setTimeout(function(){
+			var gallery = document.getElementById(hash);
+			var top = gallery.getBoundingClientRect().top + window.scrollY - 150;
+			window.scrollTo(0, top);
+		}, 4000);
+	}
+}());
+</script>
+
+  </div>
+
+  </div>
+</section>
+
+    
+        <footer id="footer" class="row" footer>
+
+    <div id="cookiebanner" ng-click="removeCookieBanner()"> <span class="icon-close"></span> <div class="row-content"> <div class="column small-ten small-push-one reset last"> <p>This website uses technical and third parties profiling cookies to send advertising messages in line with the user's online navigation preferences. By proceeding you agree to the use of these <a href="https://www.lamborghini.com/en-en/cookie-policy">cookies</a>.</p>
+<style type="text/css">.gmnoprint:last-of-type{
+display:flex;
+transform: scale(.8);
+}
+</style>
+ </div> </div> </div>
+    <!-- SCHEMA -->
+    <div itemscope itemtype="http://schema.org/Organization" style="display:none">
+        <img itemprop="logo" src="/themes/custom/lambo/img/base/logo.png" />
+        <meta itemprop="legalName" content="Automobili Lamborghini S.p.A."/>
+        <meta itemprop="url" content="https://www.lamborghini.com"/>
+        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <meta itemprop="streetAddress" content="Via Modena, 12"/>
+            <meta itemprop="addressLocality" content="Sant'Agata Bolognese (BO)"/>
+            <meta itemprop="postalCode" content="40019"/>
+            <meta itemprop="addressCountry" content="Italy"/>
+            <meta itemprop="telephone" content="+39 051 959.7611"/>
+            <meta itemprop="email" content="automobililamborghini@legalmail.it"/>
+        </div>
+    </div>
+
+
+
+
+    <nav>
+        <ul>
+                            <li><a href="https://www.lamborghini.com/en-en/company" target="">Company</a></li>                <li><a href="https://www.lamborghini.com/en-en/careers" target="">careers</a></li>                <li><a href="https://www.lamborghini.com/en-en/contact-us" target="">Contact Us</a></li>                <li><a href="http://media.lamborghini.com" target="">media center</a></li>                <li><a href="https://www.lamborghini.com/en-en/privacy-legal" target="">privacy &amp; legal</a></li>                <li><a href="https://www.lamborghini.com/en-en/sitemap" target="">sitemap</a></li>                <li><a href="http://newsletter.lamborghini.com/en" target="">newsletter</a></li>                <li><a href="http://www.lamborghinistore.com/" target="">store</a></li>        </ul>
+    </nav>
+    <div class="links row-content">
+        <div class="column  medium-ten medium-push-one reset last">
+                            <div class="column small-three reset">
+                    <a href="https://www.lamborghini.com/en-en/models" target=""><h4><strong>Models</strong> <span></span></h4></a>
+                    <nav>
+                        <ul>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/urus" target="_blank">Urus</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/huracan" target="_self">Huracán</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/aventador" target="_self">Aventador</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/few-off" target="_self">Few Off</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/concept" target="_self">Concept</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/models/ad-personam" target="_self">Ad Personam</a></li>
+                                                    </ul>
+                    </nav>
+                </div>
+                            <div class="column small-three reset">
+                    <a href="https://www.lamborghini.com/en-en/brand" target=""><h4><strong>Brand</strong> <span></span></h4></a>
+                    <nav>
+                        <ul>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/people" target="_self">People</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/history" target="_self">History</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/masterpieces" target="_self">Masterpieces</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/design" target="_self">Design</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/innovation-excellence/forged-composites" target="_self">Forged Composites®</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/brand/innovation-excellence/carbon-fiber" target="_self">Carbon Fiber</a></li>
+                                                    </ul>
+                    </nav>
+                </div>
+                            <div class="column small-three reset">
+                    <a href="https://www.lamborghini.com/en-en/ownership" target=""><h4><strong>Ownership</strong> <span></span></h4></a>
+                    <nav>
+                        <ul>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/financial-services" target="_self">Financial Services</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/dealer-locator" target="_self">Dealer locator</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/dealer-locator#service" target="_blank">Service locator</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/accessori-originali" target="_self">Accessori Originali</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/spare-parts" target="_self">Spare parts</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/services" target="_self">Services</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/ownership/polo-storico" target="_self">Polo Storico</a></li>
+                                                    </ul>
+                    </nav>
+                </div>
+                            <div class="column small-three reset">
+                    <a href="https://www.lamborghini.com/en-en/experience" target=""><h4><strong>Experience</strong> <span></span></h4></a>
+                    <nav>
+                        <ul>
+                                                            <li><a href="https://www.lamborghini.com/en-en/experience/lamborghini-lounge" target="_blank">Lamborghini Lounge</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/experience/news" target="_blank">News</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/experience/events" target="_self">Events</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/experience/museum" target="_self">Museum</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/experience/esperienza-programs" target="_blank">Esperienza Programs</a></li>
+                                                            <li><a href="https://www.lamborghini.com/en-en/experience/mobile-app" target="_blank">Mobile App</a></li>
+                                                    </ul>
+                    </nav>
+                </div>
+                    </div>
+
+
+    </div>
+    
+        <div class="labels">
+        <div class="social-links" socialstripe>
+            <span class="label">Follow Us</span>
+            <ul>
+                                    <li><a ng-click="track('{&quot;id&quot;:&quot;facebook&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.facebook.com\/lamborghini\/&quot;}}')" href="https://www.facebook.com/lamborghini/" target="_blank"><span class="icon icon-facebook"></span><span class="lbl">facebook</span></a>
+                    </li>                    <li><a ng-click="track('{&quot;id&quot;:&quot;twitter&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/twitter.com\/lamborghini&quot;}}')" href="https://twitter.com/lamborghini" target="_blank"><span class="icon icon-twitter"></span><span class="lbl">twitter</span></a>
+                    </li>                    <li><a ng-click="track('{&quot;id&quot;:&quot;youtube&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.youtube.com\/c\/lamborghini&quot;}}')" href="https://www.youtube.com/c/lamborghini" target="_blank"><span class="icon icon-youtube"></span><span class="lbl">youtube</span></a>
+                    </li>                    <li><a ng-click="track('{&quot;id&quot;:&quot;instagram&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.instagram.com\/lamborghini\/&quot;}}')" href="https://www.instagram.com/lamborghini/" target="_blank"><span class="icon icon-instagram"></span><span class="lbl">instagram</span></a>
+                    </li>                    <li><a ng-click="track('{&quot;id&quot;:&quot;linkedin&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.linkedin.com\/company\/automobili-lamborghini-s-p-a-&quot;}}')" href="https://www.linkedin.com/company/automobili-lamborghini-s-p-a-" target="_blank"><span class="icon icon-linkedin"></span><span class="lbl">linkedin</span></a>
+                    </li>                    <li><a ng-click="track('{&quot;id&quot;:&quot;pinterest&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/pinterest.com\/lamborghini\/&quot;}}')" href="https://pinterest.com/lamborghini/" target="_blank"><span class="icon icon-pinterest"></span><span class="lbl">pinterest</span></a>
+                    </li>                    <li><a ng-click="track('{&quot;id&quot;:&quot;weibo&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;http:\/\/www.weibo.com\/lamborghinichina&quot;}}')" href="http://www.weibo.com/lamborghinichina" target="_blank"><span class="icon icon-weibo"></span><span class="lbl">weibo</span></a>
+                    </li>                    <li><a ng-click="track('{&quot;id&quot;:&quot;youku&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;http:\/\/i.youku.com\/i\/UMjg0MDg1ODMy&quot;}}')" href="http://i.youku.com/i/UMjg0MDg1ODMy" target="_blank"><span class="icon icon-youku"></span><span class="lbl">youku</span></a>
+                    </li>                    <li><a ng-click="track('{&quot;id&quot;:&quot;wechat&quot;,&quot;link&quot;:{&quot;href&quot;:&quot;https:\/\/www.lamborghini.com\/en-en\/wechat&quot;}}')" href="https://www.lamborghini.com/en-en/wechat" target="_blank"><span class="icon icon-wechat"></span><span class="lbl">wechat</span></a>
+                    </li>            </ul>
+        </div>
+        <p>Copyright © 2017 Automobili Lamborghini S.p.A. a sole shareholder company part of Audi Group. All rights reserved. VAT  no. IT 00591801204</p>
+        <p class="bottom"></p>
+            </div>
+
+</footer>
+  
+</div>
+
+
+
+
+<div id="overlay-wcag" class="overlay wcag">
+    <div class="wrapper">
+        <div class="box">
+            <button ng-click="toggleOverlay('wcag',false)"><span class="icon-close"></span></button>
+            <h5></h5>
+            <table>
+                <tr>
+                    <td class="label"></td>
+                    <td><ul class="sizes"><li class="dot"><a href="javascript:void(0);" ng-class="getTextSizeClass(0)" ng-click="setTextSize(0)"><span class="iconbutton icon1-zoom1"></span><span class="text">normal</span></a></li><li class="dot"><a href="javascript:void(0);" ng-class="getTextSizeClass(1)"  ng-click="setTextSize(1)"><span class="iconbutton icon1-zoom2"></span><span class="text">big</span></a></li><li class="dot"><a href="javascript:void(0);" ng-click="setTextSize(2)" ng-class="getTextSizeClass(2)" ><span class="iconbutton icon1-zoom25"></span><span class="text">very big</span></a></li><li class="dot"><a href="javascript:void(0);" ng-click="setTextSize(3)" ng-class="getTextSizeClass(3)" ><span class="iconbutton icon1-zoom3"></span><span class="text">huge</span></a></li></ul></td>
+                </tr>
+                <tr>
+                    <td class="label"></td>
+                    <td><ul class="contrast"><li class="button"><a href="javascript:void(0);" ng-click="setContrast(0)" ng-class="getPageContrastClass(0)"><span class="iconbutton icon1-contrast1"></span><span class="text">minus</span></a></li><li class="button"><a href="javascript:void(0);" ng-click="setContrast(1)" ng-class="getPageContrastClass(1)"><span class="iconbutton icon1-contrast2"></span><span class="text">plus</span></a></li></ul></td>
+                </tr>
+                <tr>
+                    <td class="label"></td>
+                    <td><ul class="contrast"><li class="button"><a href="javascript:void(0);" ng-click="setCarouselTimer(true)" ng-class="getCarouselTimerClass(true)"><span class="iconbutton icon1-timer1"></span><span class="text">on</span></a></li><li class="button"><a href="javascript:void(0);" ng-click="setCarouselTimer(false)" ng-class="getCarouselTimerClass(false)"><span class="iconbutton icon1-timer2"></span><span class="text">off</span></a></li></ul></td>
+                </tr>
+            </table>
+
+        </div>
+    </div>
+</div>
+
+
+  <div id="overlay-share" class="overlay share">
+    <div class="wrapper">
+        <div class="box">
+            <button ng-click="toggleOverlay('share',false)"><span class="icon-close"></span></button>
+            <h5>Share <strong>on social</strong></h5>
+            <div class="addthis_inline_share_toolbox"></div>
+        </div>
+    </div>
+</div>
+
+<div id="overlay-languages" class="overlay languages">
+    <div class="wrapper">
+        <div class="box">
+            <button ng-click="toggleOverlay('languages',false)"><span class="icon-close"></span></button>
+            <h5>Choose <strong>Your language</strong></h5>
+            <div class="col">
+                                    <a href="https://www.lamborghini.com/it-en/modelli/huracan/huracan-evo-rwd" >italian</a>
+                                    <a href="https://www.lamborghini.com/en-en/models/huracan/huracan-evo-rwd" >english</a>
+                                    <a href="https://www.lamborghini.com/cn-en/车型/huracan/huracan-evo-rwd" >chinese</a>
+                                    <a href="https://www.lamborghini.com/jp-en/モデル/huracan/huracan-evo-rwd" >japanese</a>
+                            </div><div class="col">
+                                    <a href="https://www.lamborghini.com/de-en/modelle/huracan/huracan-evo-rwd">german</a>
+                                    <a href="https://www.lamborghini.com/es-en/modelos/huracan/huracan-evo-rwd">spanish</a>
+                                    <a href="https://www.lamborghini.com/fr-en/modèles/huracan/huracan-evo-rwd">french</a>
+                                    <a href="https://www.lamborghini.com/ru-en/модели/huracan/huracan-evo-rwd">russian</a>
+                            </div>
+        </div>
+    </div>
+</div>
+<div id="overlay-search" class="overlay search" search-overlay>
+    <div class="wrapper htest">
+        <div class="box">
+            <button ng-click="toggleOverlay('search',false)"><span class="icon-close"></span></button>
+            <h6>Search</h6>
+            <div class="searchbar relative"><input placeholder="Search on Lamborghini.com" type="text" ng-init="searchUri = 'https://www.lamborghini.com/en-en/lambo_search/get.json/'" ng-keyup="onSearchType($event)" id="search-desktop" ng-model="searchTerm"><span ng-if="searchTerm" ng-click="doSearch()" class="icon icon-search"></span></div><div class="holder"><span class="results">Results</span><div class="results-wrapper"><span ng-if="results.length==0">No results found</span><a target="_self" ng-href="[[result.url]]" ng-repeat="result in results" class="result"><div>
+
+            <div class="title">[[result.title]]</div>
+            <ul class="breadcrumbs">
+                <li ng-repeat="breadcrumb in result.breadcrumbs track by $index" ng-show="!$last">
+                    <span class="breadcrumb-label">[[breadcrumb]]</span>
+                    <span class="breadcrumb-separator" ng-show="$index!=result.breadcrumbs.length-2">></span>
+                </li>
+            </ul>
+            </div><div><span class="icon-arrow-next"></span></div></a></div></div>
+            <div class="loading"><div class="spinner"></div></div>
+        </div>
+    </div>
+</div>
+
+  <div id="overlay-assistant" class="overlay assistant closed">
+      <div class="wrapper">
+          <div class="box">
+              <div class="assistant-wrapper mobile" assistant>
+                  <div class="assistant-content">
+                      <div class="assistant-iframe open">
+                                                        <iframe id="assistant-iframe" src="https://us-central1-lamborghini-ai.cloudfunctions.net/chat/?lang=en&wizard=1&microphone=0" allow="geolocation; microphone" frameborder="0" scrolling="no"></iframe>
+                                                </div>
+                      <!--div class="assistant-help">
+                          <div class="help-action" ng-click="help_list_animate_mobile()">
+                              <div class="text">
+                                  <label>Find out what you can ask me</label>
+                              </div>
+                              <div class="arrow"></div>
+                          </div>
+                          <div class="help-content">
+                              <ul>
+                                                                        <li ng-click="question_click($event)">What is the top speed of the Aventador SVJ ?</li>
+                                                                        <li ng-click="question_click($event)">What is the price of the Urus in Europe?</li>
+                                                                        <li ng-click="question_click($event)">Tell me something about Lamborghini&#039;s history</li>
+                                                                        <li ng-click="question_click($event)">Tell me something about Lamborghini&#039;s Masterpieces</li>
+                                                                        <li ng-click="question_click($event)">Where is the Lamborghini Museum?</li>
+                                                                        <li ng-click="question_click($event)">How much does the Lamborghini Museum ticket cost?</li>
+                                                                        <li ng-click="question_click($event)">What is the Lamborghini Lounge?</li>
+                                                                        <li ng-click="question_click($event)">What is the Ad Personam program?</li>
+                                                                </ul>
+                          </div>
+                      </div-->
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+
+
+</div>
+
+</div>
+
+
+<script type="text/javascript">
+
+    var scripts=['https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58130d6e7c1b0811'];
+
+    var loadScripts=function(){
+        var el = document.createElement("script");
+        el.onload=function(){
+            if(scripts.length>0)
+            {
+                loadScripts();
+            }else{
+                try{window.addthislistener();}catch(e){}
+            }
+        };
+        el.src=scripts.shift();
+        document.getElementsByTagName('head')[0].appendChild(el);
+    }
+
+    loadScripts();
+
+</script>
+
+  </div>
+
+    
+
+    <script src="/themes/custom/lambo/js/min/model.js?v=1.x"></script>
+
+
+  </body>
+</html>
